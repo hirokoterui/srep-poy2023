@@ -2,4 +2,170 @@
 // You can use it to write styles for any elements Svelte or any other library
 // creates on your pages or embeds and to override any defaults that are part
 // of our house style libraries.
-@import '@reuters-graphics/graphics-components/scss/mixins';
+@import 'https://www.reuters.com/investigates/static/4-3-5/en/styles/main.css?v=131915181123';
+@import 'https://www.reuters.com/investigates/special-report/assets/wider-image-standard/wider-image-standard.css?v=182503291123';
+@import 'https://www.reuters.com/investigates/special-report/assets/wider-image-standard/wider-image-standard-mobile-full-lead-picture.css?v=182503291123';
+
+@import 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap';
+
+$sans: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Kaku Gothic ProN", "Roboto", "Segoe UI", "Arial", "Meiryo", sans-serif;
+$serif: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", "Times New Roman", serif;
+
+
+
+.blockquote {
+    font-size: 2rem;
+}
+
+.blockquote p.quote {
+    line-height: 3rem;
+    font-weight: 300;
+}
+
+
+
+/* lead slideshow styles */
+
+/* DESKTOP image positioning */
+
+.masthead-container.background-based-masthead {
+
+    .image-container-x .image-container-y .masthead-image {
+
+        &:nth-of-type(2) {
+            background-position-x: 10%;
+            background-position-y: 100%;
+        }
+
+        &:nth-of-type(3) {
+            background-position-y: 100%;
+        }
+
+        &:nth-of-type(4) {
+            background-position-y: 100%;
+        }
+
+        &:nth-of-type(6) {
+            background-position-y: 50%;
+        }
+
+        &:nth-of-type(7) {
+            background-position-y: 100%;
+        }
+
+        &:nth-of-type(9) {
+            background-position-y: 100%;
+        }
+
+        /* MOBILE image positioning */
+        @media (max-width: 834px) {
+            background-position-x: 50%;
+
+            /* NOTE: the nth number here is +1 of the list position, 
+          so the first image in the list would be nth-of-type(2)  */
+            &:nth-of-type(2) {
+                background-position-x: 60%;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* styles for slideshow */
+
+.image-container-y {
+    position: relative;
+    overflow: hidden;
+}
+
+.masthead-image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+    animation: slide 25s infinite;
+    opacity: 0;
+}
+
+@keyframes slide {
+    10% {
+        opacity: 1;
+    }
+
+    20% {
+        opacity: 1;
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    40% {
+        transform: scale(1.05);
+    }
+}
+
+.masthead-image:first-of-type {
+    opacity: 1;
+}
+
+
+/*-----custom----*/
+
+.warning {
+    color: var(--warning); //var(--theme-colour-accent);
+}
+
+@for $i from 1 through 6 {
+
+    h#{$i},
+    .h#{$i} {
+        font-family: $sans;
+    }
+}
+
+*,
+p,
+.article-paragraph,
+.blockquote,
+.caption {
+    font-family: $sans;
+}
+
+.special-report-article.theme-dark {
+    .share-in-article-container {
+        .list-group {
+            .list-group-item {
+
+                .fa,
+                svg {
+                    transition: all .2s ease;
+                }
+
+                a:hover,
+                a:focus {
+
+                    .fa,
+                    svg {
+                        color: #fff !important;
+                        fill: #fff !important;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/* end lead slideshow styles */
