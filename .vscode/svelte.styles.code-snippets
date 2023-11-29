@@ -1,0 +1,14 @@
+{
+	"Svelte SCSS style": {
+		"scope": "svelte",
+		"prefix": "scss",
+		"body": [
+			"<style lang=\"scss\">",
+			"  @import \"@reuters-graphics/graphics-components/dist/scss/mixins\";",
+			"",
+			"  $1",
+			"</style>"
+		],
+		"description": "Add a Svelte SCSS style tag"
+	}
+}
