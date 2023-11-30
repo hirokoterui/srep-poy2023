@@ -48,7 +48,7 @@
       <div class="row">
         <h6 class="series-kicker">{content.Kicker}</h6>
         <h1 class="series-title">
-          {content.Head}
+          {content.Hed}
         </h1>
         <!-- svelte-ignore a11y-missing-content -->
         <h5 class="series-subtitle"></h5>
@@ -66,3 +66,87 @@
   </div>
 </div>
 <div class="masthead-clear"></div>
+
+<style lang="scss">
+  /* lead slideshow styles */
+
+  /* DESKTOP image positioning */
+
+  .masthead-container.background-based-masthead {
+    .image-container-x .image-container-y .masthead-image {
+      &:nth-of-type(2) {
+        background-position-x: 10%;
+        background-position-y: 100%;
+      }
+
+      &:nth-of-type(3) {
+        background-position-y: 100%;
+      }
+
+      &:nth-of-type(4) {
+        background-position-y: 100%;
+      }
+
+      &:nth-of-type(6) {
+        background-position-y: 50%;
+      }
+
+      &:nth-of-type(7) {
+        background-position-y: 100%;
+      }
+
+      &:nth-of-type(9) {
+        background-position-y: 100%;
+      }
+
+      /* MOBILE image positioning */
+      @media (max-width: 834px) {
+        background-position-x: 50%;
+
+        /* NOTE: the nth number here is +1 of the list position, 
+      so the first image in the list would be nth-of-type(2)  */
+        &:nth-of-type(2) {
+          background-position-x: 60%;
+        }
+      }
+    }
+  }
+
+  /* styles for slideshow */
+
+  .image-container-y {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .masthead-image {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    position: absolute;
+    animation: slide 25s infinite;
+    opacity: 0;
+  }
+
+  @keyframes slide {
+    10% {
+      opacity: 1;
+    }
+
+    20% {
+      opacity: 1;
+    }
+
+    30% {
+      opacity: 0;
+    }
+
+    40% {
+      transform: scale(1.05);
+    }
+  }
+
+  .masthead-image:first-of-type {
+    opacity: 1;
+  }
+</style>

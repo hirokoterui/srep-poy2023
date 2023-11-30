@@ -1088,6 +1088,11 @@
   resolved "https://registry.yarnpkg.com/@evilmartians/lefthook/-/lefthook-1.1.2.tgz#4abe332d9b7a0b061eb8bf839315f66f626077d8"
   integrity sha512-mxh0P9TktuwdY8SZ422/jzJB278z/4tjzBUvJONCSnZFcRJD3+BkLTLxuBVJZWuaO1D4Qmfdj6KBevNui23uSQ==
 
+"@fortawesome/fontawesome-common-types@6.5.0":
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.5.0.tgz#5d3912d28a2fb3e6c867320eb27a71f23e7bcb29"
+  integrity sha512-vYC8oN2l8meu05sRi1j3Iie/HNFAeIxpitYFhsUrBc11TxiMken9QdXnSQ0q16FYsOSt/6soxs5ghdk+VYGiog==
+
 "@fortawesome/fontawesome-common-types@^0.2.36":
   version "0.2.36"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.36.tgz#b44e52db3b6b20523e0c57ef8c42d315532cb903"
@@ -1099,6 +1104,13 @@
   integrity sha512-f1witbwycL9cTENJegcmcZRYyawAFbm8+c6IirLmwbbpqz46wyjbQYLuxOc7weXFXfB7QR8/Vd2u5R3q6JYD9g==
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.2.36"
+
+"@fortawesome/free-brands-svg-icons@^6.5.0":
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-6.5.0.tgz#00ff5b4a0122b3e4cdb5c901cd97e769c133e183"
+  integrity sha512-LwIl3b5cH0xjmBS7mcy8+SsSsl/7J4xi3aP+Tr4rDUf2Tab8r1c8NcqC8wP5c+bgphGstyG3QPx7l4b9WtcO5Q==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.5.0"
 
 "@fortawesome/free-regular-svg-icons@^5.15.3":
   version "5.15.4"
@@ -1113,6 +1125,13 @@
   integrity sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.2.36"
+
+"@fortawesome/free-solid-svg-icons@^6.5.0":
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-solid-svg-icons/-/free-solid-svg-icons-6.5.0.tgz#bc50a291948fa43b1a9502548ac0b02e7b1f2433"
+  integrity sha512-6ZPq8mme67Q7O9Fbp2O+Z7mPZbcWTsRv555JLftLaTodiV0Wq+99YgMhyQ8O6mgNQfComqS9OEvqs7M8ySA92g==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "6.5.0"
 
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.5"
@@ -1439,8 +1458,10 @@
 
 "@reuters-graphics/graphics-components-jp@https://github.com/hirokoterui/graphics-components-jp.git":
   version "0.0.1"
-  resolved "https://github.com/hirokoterui/graphics-components-jp.git#64ad01b4b2d66a1e8839d1488fd81948bc3f005c"
+  resolved "https://github.com/hirokoterui/graphics-components-jp.git#2e35939e835ef3cc5f1585390a12a789de7a469b"
   dependencies:
+    "@fortawesome/free-brands-svg-icons" "^6.5.0"
+    "@fortawesome/free-solid-svg-icons" "^6.5.0"
     "@reuters-graphics/graphics-components" "^1.0.7"
 
 "@reuters-graphics/graphics-components@^1.0.4":

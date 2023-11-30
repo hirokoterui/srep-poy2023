@@ -2,7 +2,7 @@
   import {
     //Analytics,
     //SEO,
-    Sharer,
+    //Sharer,
     //SiteHeader,
     //SiteFooter,
     EmbedPreviewerLink,
@@ -54,9 +54,9 @@
 />
 
 <Theme base="dark" theme="{{ colour: { background: '#000' } }}">
-  <SiteHeader lang="ja" />
+  <SiteHeader lang="ja" id="srep-header" />
   <App {content} />
-  <Sharer />
+
   <SiteFooter lang="ja" />
 </Theme>
 

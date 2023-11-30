@@ -23,9 +23,11 @@
         {#each content.Authors as author}
           <p class="{cls}">{@html author.author}</p>
         {/each}
-        <p class="{cls}">
-          写真：{@html content.Photograph}
-        </p>
+        {#if content.Photograph}
+          <p class="{cls}">
+            写真：{@html content.Photograph}
+          </p>
+        {/if}
 
         {@html marked
           .parse(content.EndNotes)

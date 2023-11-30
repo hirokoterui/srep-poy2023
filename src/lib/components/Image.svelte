@@ -93,7 +93,7 @@
     itemtype="http://schema.org/ImageObject"
   >
     <div class="media-container">
-      <div class="d-block">
+      <div class="d-block {block.Class}">
         <!-- svelte-ignore a11y-missing-attribute -->
         <img class="img-fluid" itemprop="contentURL" src="{block.Image}" />
       </div>
@@ -106,6 +106,14 @@
   .media-item {
     &.full:not(.cover) {
       margin-bottom: 6rem;
+    }
+    .vertical {
+      height: 100vh;
+      text-align: center;
+      img.img-fluid {
+        height: 100%;
+        width: auto;
+      }
     }
   }
 </style>

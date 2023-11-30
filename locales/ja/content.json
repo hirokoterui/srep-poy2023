@@ -226,7 +226,7 @@
         {
           "Type": "Image",
           "Layout": "Full",
-          "Class": "",
+          "Class": "vertical",
           "Id": "23",
           "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_75.jpg",
           "Caption": "Palestinian woman Inas Abu Maamar, 36, embraces the body of her 5-year-old niece Saly, 5, who was killed in an Israeli strike, at Nasser hospital in Khan Younis in the southern Gaza Strip, October 17, 2023. REUTERS/Mohammed Salem"
@@ -425,7 +425,7 @@
         {
           "Type": "Image",
           "Layout": "Full",
-          "Class": "",
+          "Class": "vertical",
           "Id": "48",
           "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_14.jpg",
           "Caption": "Former U.S. President Donald Trump is shown in a police booking mugshot released by the Fulton County Sheriff's Office, after a Grand Jury brought back indictments against him and 18 of his allies in their attempt to overturn the state's 2020 election results in Atlanta, Georgia, U.S., August 24, 2023. Fulton County Sheriff's Office/Handout via REUTERS"

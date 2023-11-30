@@ -8,12 +8,19 @@
   export let embedded = false;
 
   let scriptContainer;
+  function appHeight() {
+    const doc = document.documentElement;
+    doc.style.setProperty('--app-height', `${window.innerHeight}px`);
+  }
 
   onMount(() => {
     const s = document.createElement('script');
     s.src =
       'https://www.reuters.com/investigates/static/4-3-5/en/scripts/main.js?v=131915181123';
     scriptContainer.appendChild(s);
+
+    appHeight();
+    window.addEventListener('resize', appHeight);
   });
 </script>
 
