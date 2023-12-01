@@ -1,5 +1,7 @@
 <script>
-  import { onMount } from 'svelte';
+  import { onMount, getContext, afterUpdate } from 'svelte';
+
+  //console.log(getContext('nav-active-section'));
   // Import ai2svelte components...
   import Masthead from '$lib/components/Masthead.svelte';
   import Article from '$lib/components/Article.svelte';
@@ -7,29 +9,17 @@
   export let content; // Google doc content
   export let embedded = false;
 
-  let scriptContainer;
   function appHeight() {
     const doc = document.documentElement;
     doc.style.setProperty('--app-height', `${window.innerHeight}px`);
   }
 
   onMount(() => {
-    const s = document.createElement('script');
-    s.src =
-      'https://www.reuters.com/investigates/static/4-3-5/en/scripts/main.js?v=131915181123';
-    scriptContainer.appendChild(s);
-
     appHeight();
-    window.addEventListener('resize', appHeight);
   });
 </script>
 
-<svelte:head>
-  <script
-    src="https://www.reuters.com/investigates/static/4-3-5/en/scripts/vendor.js?v=131915181123"
-  ></script>
-</svelte:head>
 <Masthead {content} />
 <Article {content} />
 
-<div bind:this="{scriptContainer}"></div>
+<svelte:window on:resize="{appHeight}" />

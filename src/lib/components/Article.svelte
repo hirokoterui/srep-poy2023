@@ -1,7 +1,7 @@
 <script>
   import ArticleHead from './ArticleHead.svelte';
-  import Container from './Container.svelte';
   import SignOff from './SignOff.svelte';
+  import Blocks from './Blocks.svelte';
 
   export let content;
 </script>
@@ -14,10 +14,11 @@
 >
   <ArticleHead {content} />
   <div class="story-content-container">
-    {#each content.containers as container}
+    <!--{#each content.containers as container}
       <Container {container} />
-    {/each}
+    {/each}-->
 
+    <Blocks {content} />
     <SignOff {content} />
   </div>
 </article>

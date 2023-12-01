@@ -12,11 +12,11 @@
   import {
     Analytics,
     SEO,
-    SiteHeader,
+    //SiteHeader,
     SiteFooter,
   } from '@reuters-graphics/graphics-components-jp';
 
-  //import { SiteHeader } from '../../../graphics-components-jp';
+  import SiteHeader from '../../../graphics-components-jp/src/components/SiteHeader/SiteHeader.svelte';
 
   import App from '$lib/App.svelte';
   import pkg from '$pkg';
@@ -55,6 +55,7 @@
 
 <Theme base="dark" theme="{{ colour: { background: '#000' } }}">
   <SiteHeader lang="ja" id="srep-header" />
+
   <App {content} />
 
   <SiteFooter lang="ja" />
