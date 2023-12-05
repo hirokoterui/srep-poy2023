@@ -7,11 +7,7 @@
   "ShareImgAlt": "2023 through the lens of Reuters photographers",
   "Hed": "2023 through the lens of Reuters photographers",
   "Kicker": "特別リポート",
-  "Authors": [
-    {
-      "author": "Reuters Photographers"
-    }
-  ],
+  "Authors": [],
   "PublishedDate": "2023-11-28T11:00:00.000Z",
   "UpdatedDate": "",
   "HeadImage": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/mastheads/poy_lead_01.jpg",
@@ -25,25 +21,25 @@
     {
       "Type": "Text",
       "Layout": "Regular",
-      "Class": "article-paragraph dropcap",
-      "Text": "This year is one that will go down in history as being marked by two big wars - an ongoing conflict in Ukraine as it fights off a Russian invasion and a fresh outbreak of violence in the Middle East between Israel and Hamas militants."
+      "Class": "article-paragraph",
+      "Text": "２０２３年は２つの大きな戦争が同時進行した一年として歴史に刻まれることになるだろう。一つは２０２２年２月のロシアによる侵攻以来続くウクライナでの戦闘。もう一つは、１０月７日にパレスチナ自治区ガザを実効支配するイスラム組織ハマスがイスラエルを攻撃したことを契機とする衝突だ。"
     },
     {
       "Type": "Text",
       "Layout": "Regular",
       "Class": "article-paragraph",
-      "Text": "Reuters photographers were on the ground to capture it all as it unfolded - and much more.\n\nIn February, a 7.8 magnitude earthquake in Turkey and Syria brought buildings down on their residents - including Abdulalim Muaini, who was eventually rescued, and his family, who were among the more than 54,000 people who lost their lives in the disaster. Another quake in September killed more than 2,900 people in Morocco.\n\nIt was a year when evidence that the Earth’s climate was changing seemed starker than ever. Wildfires in southern Europe and Canada in July destroyed homes and blanketed cities in a thick haze, while in Latin America water levels dropped, threatening livelihoods and leaving Amazon River dolphins high and dry. Storms brought heavy rains to California in March, almost completely swallowing one road - a sight best illustrated from the sky.\n\nFighting between armed groups and attacks on civilians intensified in eastern Congo, there was a new spate of ethnically driven killings in Darfur, Sudan, and gangs took over much of Haiti.\n\nSuch desperate situations led many to embark on risky migration journeys in hopes of a better life. Venezuelans balanced on top of freight trains to get to the U.S.-Mexican border while Africans set out for Europe in rickety boats. Not all of them made it.\n\nTrials occupied the U.S. headlines - Donald Trump, the former president, became embroiled in a series of legal troubles, while cryptocurrency mogul Sam Bankman-Fried was convicted of fraud."
+      "Text": "ロイターの写真記者は、その展開のすべてをカメラに収めようと、現場にいた。\n\n他の多くの現場にも、ロイター写真記者の姿があった。\n\n２月、トルコとシリアの国境付近でマグニチュード７．８の大地震が発生。多くの建造物が崩壊し、住民が下敷きになった。アブドラリム・ムアイニさんもトルコ南部ハタイ県にある自宅のがれきに挟まれた被災者の一人だ。アブドラリムさんは震災の２日後に救出されたが、妻と娘２人の家族は命を落とした。このトルコ・シリア地震では５万４０００人以上が亡くなった。また、９月にはモロッコで地震が起こり、２９００人以上の死者が出た。\n\n気候変動が深刻化している兆候がかつてないほどに目に見えた１年でもあった。欧州南部やカナダで７月に発生した山火事は住宅を焼き払い、その濃い煙は都市部にも到達して空を暗く覆った。ラテンアメリカでは水位が低下し、住民の生活は脅かされ、固有種のアマゾンカワイルカは高温と干ばつにさらされた。米カリフォルニア州を襲った嵐は記録的豪雨をもたらし、ある道路がほぼ全区間水没している様子を上空から確認することができた。\n\nアフリカでは、コンゴ東部で武装勢力間の衝突が発生し、民間人への攻撃も過激化した。スーダンでも西部ダルフールで民族を標的とする新たな暴力が増加し、死者を出した。カリブ海の島国ハイチでは犯罪グループが勢力を拡大させた。\n\n治安状況の悪化から、多くの移民はリスクを伴いながらもより良い人生を求め、新たな土地へと乗り出した。故郷のベネズエラを離れて米メキシコ国境に向かう貨物列車の屋根に乗り、車体の揺れに耐える人々。欧州を目指して危険なボートで海を渡ろうとするアフリカ諸国からの移民の姿もあった。ただ、目的地に無事にたどり着くことができたのは全員ではなかった。\n\n米国内では多くの裁判がニュースの見出しを飾った。トランプ前米大統領は政府の機密文書の保持や司法妨害などを巡って起訴され、経営破綻した暗号資産（仮想通貨）大手交換所ＦＴＸトレーディングの創業者、サム・バンクマンフリード被告には１１月、詐欺などの罪で有罪評決が下された。"
     },
     {
       "Type": "Quote",
       "Layout": "Regular",
-      "Text": "649 photographers\n\n125 countries\n\n1.3 million photos"
+      "Text": "写真記者６４９人\n\n１２５カ国\n\n１３０万枚の写真"
     },
     {
       "Type": "Text",
       "Class": "article-paragraph",
       "Layout": "Regular",
-      "Text": "On Oct. 7, Hamas rampaged through southern Israel, killing around 1,200 people and taking about 240 hostages, according to Israeli tallies. In retaliation, Israel bombarded Gaza and mounted a ground offensive, which by late November had killed over 15,000 people, according to Gaza authorities.\n\nWhile this war and other stories took the spotlight off Ukraine, the conflict raged on in the country’s east. Death became an everyday occurrence - one Reuters photographer captured a woman in October looking at bodies laid out on the ground in a way that suggests it was sad but no longer shocking to her.\n\nAmid the death and despair that marked 2023, humans still found ways to remember and to celebrate - and Reuters photographers looked for those stories, too. Children took part in traditions passed down from their elders - learning ancient crafts, dressing up for religious occasions, or waving flags at the May coronation of King Charles III.\n\nPeople played sports, they went out to party and to see art exhibitions, they swam and they surfed, they strutted catwalks and they gave out Oscars.\n\nUFOs became an unexpectedly hot news topic, as hearings took place in the United States and Mexico - and something appeared in the skies over the U.S. in February. Was it a bird? Was it a plane? Was it ET? Or was it a spy balloon?\n\nA Reuters photographer took a picture of an object drifting down to the coast in South Carolina after it was shot down, just one moment among many that made up the world in 2023."
+      "Text": "１０月７日、パレスチナ自治区ガザを実効支配するイスラム組織ハマスがイスラエル南部を襲撃。イスラエル側の集計によれば約１２００人が殺害され、およそ２４０人が人質として拘束された。イスラエルは報復としてガザへの空爆や地上作戦を展開し、ガザ当局は１１月後半までに１万５０００人以上が死亡したと発表した。\n\n中東での戦闘勃発などを受けてウクライナ情勢に対する国際社会の注目は薄れたが、同国東部などでは戦闘が続き、毎日のように死者が出ている。ロイターの写真記者の一人は１０月、地面に横たわる複数の遺体を眺めている女性の姿を捉えた。その女性は目前の光景に悲しみを覚えながらも、こうした状況に驚かなくなっているようにも見受けられた。\n\n多くの死や悲しみが訪れる１年だった一方、追悼や祝宴を開き前を向く人々の姿もロイターのカメラに収められていた。歴史ある工芸を学び、宗教行事のために盛装するなど、長年の伝統を受け継ごうとする子どもたちの姿もあった。５月６日に執り行われたチャールズ英国王の戴冠式では、英国旗のユニオンジャックがはためいていた。\n\n人々はスポーツに興じ、水泳やサーフィンなども楽しんだ。パーティーや美術展に足を運ぶ人々もいた。ファッションショーではモデルらがキャットウォークを堂々と歩き、米アカデミー賞では受賞者にオスカー像が贈られた。\n\n未確認飛行物体（ＵＦＯ）も思いがけず大きな話題をさらった。米国とメキシコで行われた公聴会で議題に上ったり、２月に米国の上空で不審な飛行物体が確認されたためだ。あれは鳥か、飛行機か、ＥＴか、はたまた偵察気球か──。様々な憶測が飛び交った。\n\nロイターの写真記者の一人は、米南部サウスカロライナ州沖で撃墜され落下する飛行物体の姿を捉えていた。２０２３年の記憶に残る数多くの出来事のうちの一場面となった。"
     },
     {
       "Type": "Image",
@@ -251,7 +247,7 @@
       "Class": "",
       "Id": "26",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_76.jpg",
-      "Caption": "Ultra-Orthodox Jewish people carry their belongings before boarding a ship for U.S. nationals and their immediate family members, as they leave Israel headed for Cyprus, amid the ongoing conflict between Israel and the Palestinian Islamist group Hamas, in Haifa, Israel, October 16, 2023. REUTERS/Shir Torem"
+      "Caption": "イスラエル軍とイスラム組織ハマスとの対立が続く中、イスラエルのハイファからキプロスへ向かう米国人避難用の船に急ぐ、超正統派ユダヤ教徒ら。１０月１６日撮影（２０２３年　ロイター/Shir Torem）"
     },
     {
       "Type": "Image",
@@ -259,7 +255,7 @@
       "Class": "",
       "Id": "27",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_35.jpg",
-      "Caption": "A grandfather hugs his granddaughter Arina, 6, while saying goodbye before her evacuation from the front line city of Bakhmut, amid Russia’s attack on Ukraine, in Donetsk region, Ukraine, January 31, 2023. REUTERS/Oleksandr Ratushniak"
+      "Caption": "ロシアから攻撃を受けるウクライナ東部ドネツク州の要衝バフムトで、これから避難する孫娘アリーナちゃん（６）を抱きしめ別れを惜しむ祖父。１月３１日撮影（２０２３年　ロイター/Oleksandr Ratushniak）"
     },
     {
       "Type": "Image",
@@ -267,7 +263,7 @@
       "Class": "",
       "Id": "28",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_71.jpg",
-      "Caption": "Woldegebrial Abadi, 36, holds the hands of his severely malnourished newborn son Berhanu Woldegebrial at the Samre Hospital, in Samre, Tigray Region, Ethiopia, June 23, 2023. REUTERS/Tiksa Negeri"
+      "Caption": "ロシアから攻撃を受けるウクライナ東部ドネツク州の要衝バフムトで、これから避難する孫娘アリーナちゃん（６）を抱きしめ別れを惜しむ祖父。１月３１日撮影（２０２３年　ロイター/Oleksandr Ratushniak）"
     },
     {
       "Type": "Image",
@@ -275,7 +271,7 @@
       "Class": "",
       "Id": "29",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_88.jpg",
-      "Caption": "An Iraqi Christian cries as she attends a mass following a fatal fire at a wedding celebration, at the Grand Immaculate Church, in Hamdaniya, Iraq, September 28, 2023. REUTERS/Ahmed Saad"
+      "Caption": "イラク北部ニナワ州ハムダニヤの結婚式会場で９月２６日深夜に火災が発生し、国営メディアによると少なくとも１００人が死亡、１５０人が負傷した。結婚式で花火が使用されたのが原因とみられる。写真はミサに出席するイラク人のキリスト教徒。同２８日撮影（２０２３年　ロイター/Ahmed Saad）"
     },
     {
       "Type": "Image",
@@ -283,7 +279,7 @@
       "Class": "",
       "Id": "30",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_66.jpg",
-      "Caption": "Ibrahim Ait Said reacts as he stands on the site of his damaged house after losing 10 relatives in the deadly earthquake, in Talat N’Yaaqoub, Morocco, September 13, 2023. REUTERS/Hannah McKay"
+      "Caption": "北アフリカ・モロッコの高アトラス山脈で９月８日夜、マグニチュード６．８の大規模地震が発生し、死者は３０００人近くに達した。写真は１０人の親族を失った後、がれきの山となった自宅の前で頭を抱えるイブラヒム・アイト・サイードさん。Talat N’Yaaqoubで９月１３日撮影（２０２３年　ロイター/Hannah McKay）"
     },
     {
       "Type": "Image",
@@ -291,7 +287,7 @@
       "Class": "",
       "Id": "31",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_03.jpg",
-      "Caption": "The body of former Pope Benedict lies in St. Peter’s Basilica at the Vatican, January 2, 2023. REUTERS/Kai Pfaffenbach"
+      "Caption": "前ローマ教皇ベネディクト１６世が９５歳で死去し、遺体はバチカンのサンピエトロ大聖堂に安置された。１月２日撮影（２０２３年　ロイター/Kai Pfaffenbach）"
     },
     {
       "Type": "Image",
@@ -299,7 +295,7 @@
       "Class": "",
       "Id": "32",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_17.jpg",
-      "Caption": "Supporters of Turkish President Tayyip Erdogan react following early exit poll results for the second round of the presidential election outside the provincial headquarters of AK Party (AKP) in Istanbul, Turkey, May 28, 2023. REUTERS/Hannah McKay"
+      "Caption": "トルコで大統領選の決選投票が５月２８日に行われ、現職のエルドアン大統領が勝利。約２０年にわたる同氏の政権がさらに５年続くことになった。写真はイスタンブールにある与党・公正発展党（ＡＫＰ）の地方本部前で、出口調査の結果に喜ぶ支持者ら（２０２３年　ロイター/Hannah McKay）"
     },
     {
       "Type": "Image",
@@ -307,7 +303,7 @@
       "Class": "",
       "Id": "33",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_29.jpg",
-      "Caption": "A worker sits as illegally harvested sandalwood confiscated by Kenya’s multiagency security teams is set ablaze to curb the trade in their essential oil, which is extracted to manufacture medicines and cosmetics at the Directorate of Criminal Investigations (DCI) offices along Kiambu road in Nairobi, Kenya, February 28, 2023. REUTERS/Monicah Mwangi"
+      "Caption": "ケニアの治安当局は、エッセンシャルオイル製造のため違法伐採されたサンダルウッド（白檀）を押収し、焼却処分とした。写真は炎の近くに座る作業員。ナイロビで２月２８日撮影（２０２３年　ロイター/Monicah Mwangi）"
     },
     {
       "Type": "Image",
@@ -315,7 +311,7 @@
       "Class": "",
       "Id": "34",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_78.jpg",
-      "Caption": "A long exposure image shows the Eagle Bluffs Wildfire, which crossed the border from the U.S. state of Washington, and prompted evacuation orders in Osoyoos, British Columbia, Canada, July 30, 2023. REUTERS/Jesse Winter"
+      "Caption": "米ワシントン州の山火事が国境を越えてカナダのブリティッシュコロンビア州に燃え広がり、同州の町オソヨースなどの住民に避難命令が出された。写真は７月３０日、山火事の模様を長時間露光で撮影したもの（２０２３年　ロイター/Jesse Winter）"
     },
     {
       "Type": "Image",
@@ -323,7 +319,7 @@
       "Class": "",
       "Id": "35",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_09.jpg",
-      "Caption": "A man walks on the cracked ground of the Baells reservoir as drinking water supplies have plunged to their lowest level since 1990 due to extreme drought in Catalonia, in the village of Cersc, in the region Bergueda, Spain, March 14, 2023. REUTERS/Nacho Doce"
+      "Caption": "スペイン北東部カタルーニャ州の村では、極度の干ばつにより飲料水の供給が１９９０年以来最低レベルにまで落ち込んだ。写真はひび割れたバエルズ貯水池を歩く男性。３月１４日撮影（２０２３年　ロイター/Nacho Doce）"
     },
     {
       "Type": "Image",
@@ -331,7 +327,7 @@
       "Class": "",
       "Id": "36",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_89.jpg",
-      "Caption": "A person takes a photo as a full moon known as the “Buck Moon” rises behind the Temple of Poseidon, in Cape Sounion, near Athens, Greece, July 3, 2023. REUTERS/Alkis Konstantinidis"
+      "Caption": "ギリシャ・アテネ近郊のスニオン岬でポセイドン神殿を照らす満月「バックムーン」。「バック」は「牡鹿」の意味。７月３日撮影（２０２３年　ロイター/Alkis Konstantinidis）"
     },
     {
       "Type": "Image",
@@ -339,7 +335,7 @@
       "Class": "",
       "Id": "37",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_06.jpg",
-      "Caption": "Hindu girls dressed as Radha and Lord Krishna during the Janmashtami festival pose for a picture as the Hindu community celebrates the birth anniversary of Lord Krishna in Dhaka, Bangladesh, September 6, 2023. REUTERS/Mohammad Ponir Hossain"
+      "Caption": "バングラデシュで行われたクリシュナ神の生誕を祝う「ジャンマシュタミ祭」で、クリシュナ神とその恋人ラーダーにふんした少女ら。ダッカで９月６日撮影（２０２３年　ロイター/Mohammad Ponir Hossain）"
     },
     {
       "Type": "Image",
@@ -347,7 +343,7 @@
       "Class": "",
       "Id": "38",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_27.jpg",
-      "Caption": "Oscar winners Jamie Lee Curtis and Michelle Yeoh watch backstage as Brendan Fraser (unseen) poses with his Oscar in the Oscars photo room at the 95th Academy Awards in Hollywood, Los Angeles, California, U.S., March 12, 2023.REUTERS/Mike Blake"
+      "Caption": "第９５回米アカデミー賞授賞式が３月１２日に開催され、ＳＦアクション「エブリシング・エブリウェア・オール・アット・ワンス（エブエブ）」が作品賞など７部門で受賞した。写真は同作で主演女優賞を獲得したミシェル・ヨー（左）と助演女優賞のジェイミー・リー・カーティス（右）。ロサンゼルスで撮影（２０２３年　ロイター/Mike Blake）"
     },
     {
       "Type": "Image",
@@ -355,7 +351,7 @@
       "Class": "",
       "Id": "39",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_13.jpg",
-      "Caption": "Lady Gaga reacts as a photographer falls on the champagne-colored red carpet during the Oscars arrivals at the 95th Academy Awards in Hollywood, Los Angeles, California, U.S., March 12, 2023. REUTERS/Mario Anzuoni"
+      "Caption": "第９５回アカデミー賞の会場で、シャンパン色のレッドカーペットにカメラマンが転んだのに驚くレディー・ガガ。３月１２日撮影（２０２３年　ロイター/Mario Anzuoni）"
     },
     {
       "Type": "Image",
@@ -363,7 +359,7 @@
       "Class": "",
       "Id": "40",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_61.jpg",
-      "Caption": "Former FTX Chief Executive Sam Bankman-Fried, who faces fraud charges over the collapse of the bankrupt cryptocurrency exchange, is escorted outside the Manhattan federal court in New York City, U.S., March 30, 2023. REUTERS/David Dee Delgado"
+      "Caption": "経営破綻した暗号資産（仮想通貨）交換業者ＦＴＸの創業者で、詐欺罪などに問われたサム・バンクマンフリード被告。３月３０日、米ニューヨーク州のマンハッタン連邦地方裁判所の外で撮影（２０２３年　ロイター/David Dee Delgado）"
     },
     {
       "Type": "Image",
@@ -371,7 +367,7 @@
       "Class": "",
       "Id": "41",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_32.jpg",
-      "Caption": "A model sits backstage after having make-up applied ahead of the Carolina Herrera Fall/Winter 2023 collection show during New York Fashion Week in New York City, U.S., February 13, 2023. REUTERS/Andrew Kelly"
+      "Caption": "米ニューヨーク・ファッションウィークで、キャロライナ・ヘレラ２０２３年秋冬コレクションのショーを前に、バックステージで化粧をするモデル。２月１３日撮影（２０２３年　ロイター/Andrew Kelly）"
     },
     {
       "Type": "Image",
@@ -379,7 +375,7 @@
       "Class": "",
       "Id": "42",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_08.jpg",
-      "Caption": "U.S. Air Force jets fly overhead as USAF Academy cadets celebrate during their graduation ceremony attended by U.S. President Joe Biden at Falcon Stadium in Colorado Springs, Colorado, U.S., June 1, 2023. REUTERS/Kevin Mohatt"
+      "Caption": "米空軍士官学校の卒業式が６月１日行われ、バイデン大統領も臨席する中、士官候補生らが卒業を祝って帽子を空へ投げ上げた。コロラド州コロラドスプリングスのファルコン・スタジアムで撮影（２０２３年　ロイター/Kevin Mohatt）"
     },
     {
       "Type": "Image",
@@ -387,7 +383,7 @@
       "Class": "",
       "Id": "43",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_33.jpg",
-      "Caption": "The suspected Chinese spy balloon drifts to the ocean after being shot down off the coast in Surfside Beach, South Carolina, U.S. February 4, 2023. REUTERS/Randall Hill"
+      "Caption": "オースティン米国防長官は２月４日、米本土上空を飛行していた中国の偵察気球を東部サウスカロライナ州沖で撃墜したと発表した。写真は撃墜の瞬間。中国外務省は、「飛行船」は気象などの科学研究を目的とした民間のものであり、「誤って」米国の領空に入ったと説明した（２０２３年　ロイター/Randall Hill）"
     },
     {
       "Type": "Image",
@@ -395,7 +391,7 @@
       "Class": "",
       "Id": "44",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_31.jpg",
-      "Caption": "A person watches an airshow at NAVDEX, an annual event that happens alongside the International Defence Exhibition and Conference (IDEX) in Abu Dhabi, United Arab Emirates, February 20, 2023. REUTERS/Amr Alfiky"
+      "Caption": "アラブ首長国連邦（ＵＡＥ）のアブダビで２月２０日、国際防衛展示会（ＩＤＥＸ）と並行して毎年開催されるイベント、海軍防衛展示会（ＮＡＶＤＥＸ）で航空ショーを見る人（２０２３年　ロイター/Amr Alfiky）"
     },
     {
       "Type": "Image",
@@ -403,7 +399,7 @@
       "Class": "",
       "Id": "45",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_58.jpg",
-      "Caption": "Britain’s King Charles waves as he stands on the Buckingham Palace balcony following his coronation ceremony in London, Britain, May 6, 2023. REUTERS/Paul Childs"
+      "Caption": "チャールズ英国王の戴冠式が５月６日、ロンドンのウェストミンスター寺院で開かれた。写真は式典の後、バッキンガム宮殿のバルコニーから観衆に手を振る同国王（２０２３年　ロイター/Paul Childs）"
     },
     {
       "Type": "Image",
@@ -411,7 +407,7 @@
       "Class": "",
       "Id": "46",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_59.jpg",
-      "Caption": "Police officers stand guard with their shields covered in red paint during a protest held by teachers against a new curriculum established by Bolivia's Ministry of Education, in La Paz, Bolivia, April 10, 2023. REUTERS/Claudia Morales"
+      "Caption": "南米ボリビアの主要都市ラパスで４月１０日、教育省が制定した新カリキュラムに反対する教師らが抗議デモを行った。対峙（たいじ）した警官らの盾には赤いペンキが付いている（２０２３年　ロイター/Claudia Morales）"
     },
     {
       "Type": "Image",
@@ -419,7 +415,7 @@
       "Class": "",
       "Id": "47",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_99.jpg",
-      "Caption": "Anti-war protesters raise their “bloody” hands behind U.S. Secretary of State Antony Blinken during a Senate Appropriations Committee hearing on President Biden’s $106 billion national security supplemental funding request to support Israel and Ukraine, as well as bolster border security, on Capitol Hill in Washington, U.S., October 31, 2023. REUTERS/Kevin Lamarque"
+      "Caption": "バイデン大統領がウクライナやイスラエル支援を盛り込んだ約１０６０億ドル規模の緊急予算案について１０月３１日、上院歳出委員会で公聴会が開かれた。パレスチナ自治区ガザなどでの紛争に反対する人々は、ブリンケン国務長官の背後で「血まみれ」の手を挙げて抗議した（２０２３年　ロイター/Kevin Lamarque）"
     },
     {
       "Type": "Image",
@@ -427,7 +423,7 @@
       "Class": "vertical",
       "Id": "48",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_14.jpg",
-      "Caption": "Former U.S. President Donald Trump is shown in a police booking mugshot released by the Fulton County Sheriff's Office, after a Grand Jury brought back indictments against him and 18 of his allies in their attempt to overturn the state's 2020 election results in Atlanta, Georgia, U.S., August 24, 2023. Fulton County Sheriff's Office/Handout via REUTERS"
+      "Caption": "トランプ前米大統領はジョージア州の大陪審に２０２０年の大統領選の敗北を覆そうとしたとして起訴された事件で８月２４日、フルトン郡の拘置施設に出頭した。写真はこの際に撮影した、被告人としての顔写真「マグショット」。フルトン郡保安官事務所提供写真（２０２３年　ロイター）"
     },
     {
       "Type": "Image",
@@ -435,7 +431,7 @@
       "Class": "",
       "Id": "49",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_43.jpg",
-      "Caption": "U.S. President Joe Biden arrives for a mass at St. Joseph on the Brandywine Catholic Church in Wilmington, Delaware, U.S., November 18, 2023. REUTERS/Julia Nikhinson"
+      "Caption": "米デラウェア州ウィルミントンのカトリック教会でのミサに到着したバイデン米大統領。１１月１８日撮影（２０２３年　ロイター/Julia Nikhinson）"
     },
     {
       "Type": "Image",
@@ -443,7 +439,7 @@
       "Class": "",
       "Id": "50",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_02.jpg",
-      "Caption": "A woman and a child duck near a police vehicle after leaving school amid gang violence in Port-au-Prince, Haiti, March 3, 2023. REUTERS/Ralph Tedy Erol"
+      "Caption": "ギャングによる犯罪が横行するカリブ海の島国ハイチの首都ポルトープランスで、警察車両の近くで警戒しながら下校する生徒と女性。３月３日撮影（２０２３年　ロイター/Ralph Tedy Erol）"
     },
     {
       "Type": "Image",
@@ -651,7 +647,7 @@
       "Class": "",
       "Id": "76",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_80.jpg",
-      "Caption": "Manuel Flores walks on a dry area that shows the drop in the level of Lake Titicaca, Latin America’s largest freshwater basin, as it is edging towards record low levels, on Cojata Island, Bolivia, October 26, 2023. REUTERS/Claudia Morales"
+      "Caption": "記録的な水位の低下に見舞われたボリビアのチチカカ湖で、露出して干上がった湖底を歩くマヌエル・フロレスさん。１０月撮影（２０２３年　ロイター/Claudia Morales）"
     },
     {
       "Type": "Image",
@@ -659,7 +655,7 @@
       "Class": "",
       "Id": "77",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_82.jpg",
-      "Caption": "Afghan men carry a tent after the recent earthquake in the district of Zinda Jan, in Herat, Afghanistan, October 10, 2023. REUTERS/Ali Khara"
+      "Caption": "震災に見舞われたアフガニスタン西部ヘラート州でテントを運ぶ男性たち。１０月撮影（２０２３年　ロイター/Ali Khara）"
     },
     {
       "Type": "Image",
@@ -667,7 +663,7 @@
       "Class": "",
       "Id": "78",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_52.jpg",
-      "Caption": "Locals are evacuated on an excavator from a flooded area in the aftermath of Storm Daniel in Larissa, Greece, September 10, 2023. REUTERS/Elias Marcou"
+      "Caption": "ギリシャ中部ラリサで９月、暴風雨「ストーム・ダニエル」の被害で浸水した地区からショベルカーに乗って避難する住民（２０２３年　ロイター/Elias Marcou）"
     },
     {
       "Type": "Image",
@@ -675,7 +671,7 @@
       "Class": "",
       "Id": "79",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_53.jpg",
-      "Caption": "A hearse carrying the coffin of late Irish singer Sinead O’Connor passes near her former home during her funeral procession as fans line the street to say their last goodbyes, in Bray, Ireland, August 8, 2023. REUTERS/Clodagh Kilcoyne"
+      "Caption": "アイルランドの歌手シネイド・オコナーさんの棺を運ぶ霊きゅう車がオコナーさんがかつて住んだ家の前を通り、ファンが別れを惜しんだ。アイルランド・ブレイで８月撮影（２０２３年　ロイター/Clodagh Kilcoyne）"
     },
     {
       "Type": "Image",
@@ -683,7 +679,7 @@
       "Class": "",
       "Id": "80",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_83.jpg",
-      "Caption": "Wall Street Journal reporter Evan Gershkovich stands inside an enclosure for defendants before a court hearing to consider an appeal against his pre-trial detention on espionage charges in Moscow, Russia, October 10, 2023. REUTERS/Evgenia Novozhenina"
+      "Caption": "スパイ容疑を巡る裁判前の身柄拘束に異議を申し立て、モスクワの裁判所で行われた審理に出席した米紙ウォール・ストリート・ジャーナル（ＷＳＪ）のエバン・ゲルシコビッチ記者。１０月撮影（２０２３年　ロイター/Evgenia Novozhenina）"
     },
     {
       "Type": "Image",
@@ -691,7 +687,7 @@
       "Class": "",
       "Id": "81",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_98.jpg",
-      "Caption": "Residents react as they witness members of the Forensics Pathology Services (not seen) remove the bodies of two minors killed after a fire gutted an informal settlement in Fleurof, West of Johannesburg, South Africa, September 3, 2023. REUTERS/Shiraaz Mohamed"
+      "Caption": "南アフリカ・ヨハネスブルク西部の非公式居住地で発生した火災現場で、検視官が若者２人の遺体を搬出するのを見て泣き崩れる住人。９月撮影（２０２３年　ロイター/Shiraaz Mohamed）"
     },
     {
       "Type": "Image",
@@ -699,7 +695,7 @@
       "Class": "",
       "Id": "82",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_21.jpg",
-      "Caption": "Brazil’s President Luiz Inacio Lula da Silva holds his glasses during an event for World Environment Day at Planalto Palace in Brasilia, Brazil, June 5, 2023. REUTERS/Ueslei Marcelino"
+      "Caption": "ブラジリアで行われた世界環境デーのイベントの席上、眼鏡を手にするブラジルのルラ大統領。６月撮影（２０２３年　ロイター/Ueslei Marcelino）"
     },
     {
       "Type": "Image",
@@ -707,7 +703,7 @@
       "Class": "",
       "Id": "83",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_54.jpg",
-      "Caption": "A rescue worker searches for victims after a train derailed in Sarhari town in district Sanghar, Pakistan, August 6, 2023. REUTERS/Yasir Rajput"
+      "Caption": "パキスタン南部シンド州サンガールの列車の脱線事故現場で、取り残された人はいないか捜索する救助隊員。８月撮影（２０２３年　ロイター/Yasir Rajput）"
     },
     {
       "Type": "Image",
@@ -715,7 +711,7 @@
       "Class": "",
       "Id": "84",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_07.jpg",
-      "Caption": "General view of the peloton in action during stage 8 of the Tour de France from Libourne to Limoges, France, July 8, 2023. REUTERS/Stephane Mahe"
+      "Caption": "仏リブルヌからリモージュを走る自転車ロードレース「ツール・ド・フランス」の第８ステージで、コースを走る先頭集団。７月撮影（２０２３年　ロイター/Stephane Mahe）"
     },
     {
       "Type": "Image",
@@ -723,7 +719,7 @@
       "Class": "",
       "Id": "85",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_28.jpg",
-      "Caption": "A building is seen on fire in Hong Kong, China, March 3, 2023. REUTERS/Tyrone Siu"
+      "Caption": "火災で炎上する建物。香港で３月撮影　（２０２３年　ロイター/Tyrone Siu）"
     },
     {
       "Type": "Image",
@@ -731,7 +727,7 @@
       "Class": "",
       "Id": "86",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_47.jpg",
-      "Caption": "Teacher Tarna Andrews sits in the local school grounds, ahead of a nationwide referendum on Indigenous issues, in Areyonga, Australia, September 15, 2023. REUTERS/Jaimi Joy"
+      "Caption": "オーストラリアで１０月に実施されたアボリジニなど先住民を巡る憲法改正の是非を問う国民投票を前に、中部アレイヨンガの学校の校庭で撮影に応じる教師のタルナ・アンドリュースさん。９月撮影。国民投票では、先住民を「最初のオーストラリア人」と認めることや、先住民が影響を受ける問題を政府に諮問する組織「議会への声」設立の是非が問われたが、反対多数で否決された（２０２３年　ロイター/Jaimi Joy）"
     },
     {
       "Type": "Image",
@@ -739,7 +735,7 @@
       "Class": "",
       "Id": "87",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_18.jpg",
-      "Caption": "French riot police officers walk next to an overturned vehicle during the fifth day of protests following the death of Nahel, a 17-year-old teenager killed by a French police officer in Nanterre during a traffic stop, in Paris, France, July 2, 2023. REUTERS/Juan Medina"
+      "Caption": "フランスのパリ郊外ナンテールで６月末、１７歳の少年が交通検問中の警察官に銃で撃たれ死亡した事件を受けて発生した抗議活動の現場で、ひっくり返された自動車の横を歩く警察官。パリで７月撮影（２０２３年　ロイター/Juan Medina）"
     },
     {
       "Type": "Image",
@@ -747,7 +743,7 @@
       "Class": "",
       "Id": "88",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_41.jpg",
-      "Caption": "Riot police officers clash with demonstrators as protests following the arrest of Santa Cruz governor and right-wing opposition leader Luis Fernando Camacho over an alleged coup in 2019 continue in Santa Cruz de la Sierra, Bolivia, January 2, 2023. REUTERS/Agustin Marcarian"
+      "Caption": "ボリビアのサンタクルス県知事で、右派野党指導者のルイス・フェルナンド・カマチョ氏の逮捕に抗議するデモ隊と衝突する警官隊。サンタ・クルス・デ・ラ・シエラで１月撮影。カマチョ氏は、２０１９年の「クーデター」に関与したとして逮捕された（２０２３年　ロイター/Agustin Marcarian）"
     },
     {
       "Type": "Image",
@@ -755,7 +751,7 @@
       "Class": "",
       "Id": "89",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_55.jpg",
-      "Caption": "England’s Alex Greenwood in action with Denmark’s Janni Thomsen during the FIFA Women’s World Cup Australia and New Zealand 2023, in Sydney, Australia, July 28, 2023. REUTERS/Carl Recine"
+      "Caption": "女子ワールドカップ（Ｗ杯）の試合で競り合うイングランドのアレックス・グリーンウッド（右）とデンマークのヤンニ・トムセン。同Ｗ杯はオーストラリアとニュージーランドが共催した。７月撮影（２０２３年　ロイター/Carl Recine）"
     },
     {
       "Type": "Image",
@@ -763,7 +759,7 @@
       "Class": "",
       "Id": "90",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_63.jpg",
-      "Caption": "Hindu devotees daubed in colour throw a fellow devotee in the air as they celebrate Holi, the festival of colours, at a temple premises in Salangpur in the western state of Gujarat, India, March 7, 2023. REUTERS/Amit Dave"
+      "Caption": "春の訪れを告げるヒンズー教の祭り「ホーリー祭」で色の粉を掛け合い、男性を空中に投げ上げる信者ら。インド北西部グジャラート州サランプールの寺院で３月撮影（２０２３年　ロイター/Amit Dave）"
     },
     {
       "Type": "Image",
@@ -771,7 +767,7 @@
       "Class": "",
       "Id": "91",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_20.jpg",
-      "Caption": "People wear protective masks as the Roosevelt Island Tram crosses the East River while haze and smoke from the Canadian wildfires shroud the Manhattan skyline in the Queens Borough New York City, U.S., June 7, 2023. REUTERS/Shannon Stapleton"
+      "Caption": "カナダの森林火災の煙が空を覆ったニューヨーク・マンハッタンのスカイライン。観光客らもマスクを着けていた。クイーンズからイーストリバーを６月撮影（２０２３年　ロイター/Shannon Stapleton）"
     },
     {
       "Type": "Image",
@@ -779,7 +775,7 @@
       "Class": "",
       "Id": "92",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_44.jpg",
-      "Caption": "Cormorant fishing master, known as usho, Youichiro Adachi (left), 48, holds the leashes tied to the necks and bodies of cormorants as he prepares for cormorant fishing or ukai, on the Nagara River in Oze, Seki, Japan, September 8, 2023. REUTERS/Kim Kyung-Hoon"
+      "Caption": "岐阜県関市小瀬の長良川で、ウの首や体に巻いたひもにつながっている手縄をさばく鵜匠の足立陽一郎さん。９月撮影（２０２３年　ロイター/Kim Kyung-Hoon）"
     },
     {
       "Type": "Image",
@@ -787,7 +783,7 @@
       "Class": "",
       "Id": "93",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_74.jpg",
-      "Caption": "People gather at a voguing “ball” in Shanghai, China, May 13, 2023. REUTERS/Aly Song"
+      "Caption": "上海で開かれたヴォーグダンスのパーティーに集まった人々。５月撮影（２０２３年　ロイター/Aly Song）"
     },
     {
       "Type": "Image",
@@ -795,7 +791,7 @@
       "Class": "",
       "Id": "94",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_11.jpg",
-      "Caption": "Hindu devotees sit together on the floor of a temple with oil lamps, praying to Lokenath Brahmachari, a Hindu saint, as they observe Rakher Upabash, in Narayanganj, Bangladesh, November 7, 2023. REUTERS/Mohammad Ponir Hossain"
+      "Caption": "ヒンズー教の断食行事「ラカー・ウポバシュ」で、オイルランプを前に聖者ロケナス・ブラフマチャリに祈りを捧げる信者。バングラデシュのナラヤンガンジで１１月撮影（２０２３年　ロイター/Mohammad Ponir Hossain）"
     },
     {
       "Type": "Image",
@@ -803,7 +799,7 @@
       "Class": "",
       "Id": "95",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_30.jpg",
-      "Caption": "Police take away protesters who stormed in during Taipei Mayor Chiang Wan-an’s speech at a ceremony marking the 76th anniversary of a violently suppressed anti-government uprising known as the 228 incident at the 228 Peace Memorial Park in Taipei, Taiwan, Februray 28, 2023. REUTERS/Ann Wang"
+      "Caption": "中国国民党政権による民衆弾圧「二二八事件」７６周年の式典で、 台湾の蒋萬安・台北市長によるスピーチに乱入し、警察官に排除される人々。蒋市長は伝統的に中国との緊密な関係を重視する国民党に所属する。台北の二二八平和公園で２月撮影（２０２３年　ロイター/Ann Wang）"
     },
     {
       "Type": "Image",
@@ -811,7 +807,7 @@
       "Class": "",
       "Id": "96",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_22.jpg",
-      "Caption": "A graduated cadet bleeds after being hit by a hat tossed in the air, at the end of the 2023 graduation ceremony at the United States Military Academy (USMA), at Michie Stadium in West Point, New York, U.S., May 27, 2023. REUTERS/Eduardo Munoz"
+      "Caption": "米陸軍士官学校の卒業式で、投げ上げた帽子が直撃して血を流す卒業生。ニューヨーク州ウエストポイントで５月撮影（２０２３年　ロイター/Eduardo Munoz）"
     },
     {
       "Type": "Image",
@@ -819,7 +815,7 @@
       "Class": "",
       "Id": "97",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_95.jpg",
-      "Caption": "Syrian survivor Mohammad, 18, who was rescued with other refugees and migrants at open sea off Greece after their boat capsized, cries as he reunites with his brother Fadi, who came to meet him from the Netherlands, at the port of Kalamata, Greece, June 16, 2023. REUTERS/Stelios Misinas"
+      "Caption": "欧州へ渡ろうと乗ったボートがギリシャ沖の公海で転覆し、他の難民や避難民とともに救助されたシリア出身のモハメドさん（１８）。兄のファディさんがオランダから到着し、再会を果たした。ギリシャ・カラマタの港で６月撮影（２０２３年　ロイター/Stelios Misinas）"
     },
     {
       "Type": "Image",
@@ -827,7 +823,7 @@
       "Class": "",
       "Id": "98",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_60.jpg",
-      "Caption": "Rep. Justin Pearson, Rep. Justin Jones, and Rep. Gloria Johnson leave the Tennessee State Capitol after a vote at the Tennessee House of Representatives to expel two Democratic members for their roles in a gun control demonstration at the statehouse, in Nashville, Tennessee, U.S., April 6, 2023. REUTERS/Cheney Orr"
+      "Caption": "共和党が多数を占める米テネシー州議会で、銃規制強化の声を上げた民主党議員２人の除名処分が可決され、議事堂を後にする（右から）ジャスティン・ピアーソン議員、ジャスティン・ジョーンズ議員、グロリア・ジョンソン議員。声を上げた３議員のうち、除名されたのは黒人のピアーソン、ジョーンズ両議員だけだった。ナッシュビルで４月撮影（２０２３年　ロイター/Cheney Orr）"
     },
     {
       "Type": "Image",
@@ -835,7 +831,7 @@
       "Class": "",
       "Id": "99",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_62.jpg",
-      "Caption": "The sun sets behind Wat Saket Temple, or Golden Mount in Bangkok, Thailand, March 19, 2023. REUTERS/Athit Perawongmetha"
+      "Caption": "「黄金の丘」とも呼ばれる寺院ワット・サケットの背後に沈む太陽。バンコクで３月撮影（２０２３年　ロイター/Athit Perawongmetha）"
     },
     {
       "Type": "Image",
@@ -843,7 +839,7 @@
       "Class": "",
       "Id": "100",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_42.jpg",
-      "Caption": "A woman walks in a snow covered park during a first snowfall, amid Russia’s attack in Ukraine, in Kyiv, Ukraine November 22, 2023. REUTERS/Valentyn Ogirenko"
+      "Caption": "ロシアによる侵攻を受けるウクライナの首都キーウに初雪が降る中、公園を歩く女性。１１月撮影（２０２３年　ロイター/Valentyn Ogirenko）"
     }
   ],
   "EndNotes": "\n写真編集：Maye-E Wong\n\n文：Rosalba O’Brien\n\n編集：Mark Porter\n\nデザイン：Maye-E Wong、Marta Montana Gomez、Eve Watling、照井裕子\n\n翻訳・編集：大澤優花、本田ももこ、田頭淳子、宗えりか、山口香子"

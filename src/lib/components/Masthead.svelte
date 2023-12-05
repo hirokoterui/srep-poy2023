@@ -3,13 +3,15 @@
   let delay = 4;
 
   const leadImages = [
-    'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_02.jpg?v=0',
+    //'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_02.jpg?v=0', //　void
+    'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_44.jpg',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_03.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_04.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_05.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_06.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_07.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_08.jpg?v=0',
+    //content.HeadImage,
   ];
 </script>
 
@@ -72,7 +74,7 @@
 
   /* DESKTOP image positioning */
 
-  .masthead-container.background-based-masthead {
+  /*.masthead-container.background-based-masthead {
     .image-container-x .image-container-y .masthead-image {
       &:nth-of-type(2) {
         background-position-x: 10%;
@@ -99,14 +101,51 @@
         background-position-y: 100%;
       }
 
-      /* MOBILE image positioning */
+      //MOBILE image positioning 
       @media (max-width: 834px) {
         background-position-x: 50%;
 
-        /* NOTE: the nth number here is +1 of the list position, 
-      so the first image in the list would be nth-of-type(2)  */
+      //NOTE: the nth number here is +1 of the list position, 
+      //so the first image in the list would be nth-of-type(2) 
         &:nth-of-type(2) {
           background-position-x: 60%;
+        }
+      }
+
+    }
+  }*/
+  .masthead-title-container {
+    .row {
+      justify-content: center;
+    }
+  }
+  .series-title,
+  .series-kicker {
+    @media (min-width: 992px) {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  .masthead-container.background-based-masthead {
+    @media (min-width: 768px) and (max-width: 768px) {
+      .masthead-title-container.under-image-masthead-title-container {
+        display: none;
+      }
+    }
+    .image-container-x .image-container-y {
+      .masthead-image {
+        background-position-y: 100%;
+        &:nth-of-type(1) {
+          background-position-y: 50%;
+        }
+        &:nth-of-type(2),
+        &:nth-of-type(4) {
+          background-position-y: 30%;
+        }
+        //}
+        @media (max-width: 768px) {
+          background-position-x: 50%;
         }
       }
     }
@@ -124,29 +163,27 @@
     height: 100%;
     background-size: cover;
     position: absolute;
-    animation: slide 25s infinite;
+    animation: slide 32s infinite;
     opacity: 0;
+  }
+  .masthead-image {
+    &:nth-of-type(1) {
+      opacity: 1;
+    }
   }
 
   @keyframes slide {
-    10% {
-      opacity: 1;
-    }
-
-    20% {
-      opacity: 1;
-    }
-
-    30% {
+    0% {
       opacity: 0;
     }
-
-    40% {
+    12% {
+      opacity: 1;
+    }
+    25% {
+      opacity: 0;
+    }
+    38% {
       transform: scale(1.05);
     }
-  }
-
-  .masthead-image:first-of-type {
-    opacity: 1;
   }
 </style>

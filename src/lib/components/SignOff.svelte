@@ -20,9 +20,11 @@
           <strong class="styled-item">{content.Hed}</strong>
         </p>
 
-        {#each content.Authors as author}
-          <p class="{cls}">{@html author.author}</p>
-        {/each}
+        {#if content.Authors.author}
+          {#each content.Authors as author}
+            <p class="{cls}">{@html author.author}</p>
+          {/each}
+        {/if}
         {#if content.Photograph}
           <p class="{cls}">
             写真：{@html content.Photograph}

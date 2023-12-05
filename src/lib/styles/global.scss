@@ -47,6 +47,10 @@ p,
     font-family: $sans;
 }
 
+figcaption.caption {
+    font-size: 1rem;
+}
+
 .special-report-article.theme-dark {
     .share-in-article-container {
         .list-group {
@@ -69,7 +73,14 @@ p,
             }
         }
     }
+
+    header .dropdown-container {
+        box-shadow: 0 10px 16px rgba(255, 255, 255, 0.2);
+    }
+
 }
+
+
 
 header .logo-container {
     width: auto;
@@ -85,9 +96,16 @@ body.hide-nav-when-scrolling {
         transition: top .3s ease;
     }
 
+    .masthead-container {
+        margin-top: 64px;
+
+        @media (max-width:767px) {
+            margin-top: 56px;
+        }
+    }
+
     &.scroll-down {
         header:not(.open) {
-
             top: -70px;
         }
     }
