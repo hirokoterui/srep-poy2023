@@ -80,7 +80,16 @@ figcaption.caption {
 
 }
 
-
+.article-row {
+    p:last-of-type {
+        &:after {
+            content: '';
+            display: block;
+            height: 4rem;
+            visibility: hidden;
+        }
+    }
+}
 
 header .logo-container {
     width: auto;

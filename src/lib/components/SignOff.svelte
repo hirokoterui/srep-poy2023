@@ -8,7 +8,7 @@
   const title = encodeURIComponent(content.SEOTitle);
   const desc = encodeURIComponent(content.SEODescription);
   const readAt = encodeURIComponent(
-    `${content.SEODescription}\nロイターco.jpで読む\n`
+    `${content.SEODescription}\nロイターで読む\n`
   );
 </script>
 

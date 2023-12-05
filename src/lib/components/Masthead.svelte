@@ -5,6 +5,7 @@
   const leadImages = [
     //'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_02.jpg?v=0', //　void
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_44.jpg',
+    //'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_07.jpg',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_03.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_04.jpg?v=0',
     'https://www.reuters.com/investigates/special-report/assets/global-poy-2023/poy_lead_05.jpg?v=0',
@@ -139,7 +140,12 @@
         &:nth-of-type(1) {
           background-position-y: 50%;
         }
-        &:nth-of-type(2),
+        &:nth-of-type(2) {
+          background-position-y: 30%;
+        }
+        &:nth-of-type(3) {
+          background-position-y: 50%;
+        }
         &:nth-of-type(4) {
           background-position-y: 30%;
         }

@@ -16,7 +16,7 @@
     SiteFooter,
   } from '@reuters-graphics/graphics-components-jp';
 
-  //import SiteHeader from '../../../graphics-components-jp/src/components/SiteHeader/SiteHeader.svelte';
+  //import SiteFooter from '../../../graphics-components-jp/src/components/SiteFooter/SiteFooter.svelte';
 
   import App from '$lib/App.svelte';
   import pkg from '$pkg';
