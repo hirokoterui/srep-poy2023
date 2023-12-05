@@ -108,8 +108,12 @@
       margin-bottom: 6rem;
     }
     .vertical {
-      height: 100vh;
+      height: 120vh;
+      //max-height: 767px;
       text-align: center;
+      @media (max-width: 768px) {
+        height: 100vh;
+      }
       img.img-fluid {
         height: 100%;
         width: auto;
