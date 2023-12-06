@@ -23,7 +23,7 @@
   {#if group[0].Layout === 'Regular'}
     <div class="container">
       <div class="article-row row d-block">
-        {#each group as block}
+        {#each group as block, i}
           <Block {block} />
         {/each}
       </div>

@@ -1,5 +1,6 @@
 <script>
   //https://www.reuters.com/investigates/special-report/assets/israel-palestinians-gaza-days/gaza_day_10.jpg?v=131915181123
+
   export let block;
   const sizes = [
     { width: 575, size: '-sm' },
@@ -89,16 +90,36 @@
 {:else if block.Layout === 'Full'}
   <figure
     class="media-item full image"
+    class:restricted="{block.Restricted}"
     itemscope=""
     itemtype="http://schema.org/ImageObject"
+    id="{block.Id ? `picture-${block.Id}` : ''}"
   >
     <div class="media-container">
       <div class="d-block {block.Class}">
-        <!-- svelte-ignore a11y-missing-attribute -->
-        <img class="img-fluid" itemprop="contentURL" src="{block.Image}" />
+        <img
+          class="img-fluid"
+          itemprop="contentURL"
+          src="{block.Image}"
+          alt="{block.Caption}"
+        />
+
+        {#if block.Restricted}
+          <div class="caution">
+            <p class="warning">この写真には遺体が写っています</p>
+            <button
+              class="btn warning"
+              on:click="{() => {
+                block.Restricted = false;
+              }}">写真を表示する</button
+            >
+          </div>
+        {/if}
       </div>
     </div>
-    <figcaption class="caption" itemprop="caption">{block.Caption}</figcaption>
+    <figcaption class="caption article-paragraph" itemprop="caption">
+      {block.Caption}
+    </figcaption>
   </figure>
 {/if}
 
@@ -106,6 +127,9 @@
   .media-item {
     &.full:not(.cover) {
       margin-bottom: 6rem;
+    }
+    img {
+      //transition: all 0.2s ease;
     }
     .vertical {
       height: 120vh;
@@ -117,6 +141,46 @@
       img.img-fluid {
         height: 100%;
         width: auto;
+      }
+    }
+  }
+  /*figure:not(.restricted) {
+    .caution {
+      display: none;
+    }
+  }*/
+  figure.restricted {
+    .media-container {
+      position: relative;
+    }
+    img {
+      opacity: 0.5;
+      filter: blur(20px);
+    }
+    .caution {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      max-height: 100vh;
+    }
+    button {
+      background: var(--warning);
+      color: var(--theme-colour-text-primary, #fff);
+      color: var(--theme-colour-background, #000);
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      transition: all 0.2s ease;
+
+      &:hover {
+        background: var(--theme-colour-text-primary, #fff);
+        color: var(--theme-colour-background, #000);
       }
     }
   }

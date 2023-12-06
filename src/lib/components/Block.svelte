@@ -3,6 +3,7 @@
   import Image from './Image.svelte';
   import Quote from './Quote.svelte';
   export let block;
+  export let cls = '';
 </script>
 
 {#if block.Type === 'Text'}

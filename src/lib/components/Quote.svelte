@@ -3,7 +3,7 @@
   export let block;
 </script>
 
-<blockquote class="blockquote" id="JV7M4W9TCO_8">
+<blockquote class="blockquote">
   <p class="quote">
     {@html marked.parse(block.Text)}
   </p>
