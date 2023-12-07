@@ -85,22 +85,28 @@
   },
   "reuters": {
     "contact": {
-      "name": null,
-      "email": null
+      "name": "Hiroko Terui",
+      "email": "hiroko.terui@thomsonreuters.com"
     },
     "graphic": {
-      "pack": null,
-      "desk": null,
+      "pack": "860d4cc6-40de-457a-bca8-73881d037138",
+      "desk": "singapore",
       "slugs": {
-        "root": ""
+        "root": "SPECIAL-REPORT",
+        "wild": "POY-2023"
       },
-      "authors": [],
+      "authors": [
+        {
+          "name": "Hiroko Terui",
+          "link": "https://www.reuters.com/authors/"
+        }
+      ],
       "referrals": [],
-      "published": null,
+      "published": "2023-12-07T05:00:00.000Z",
       "updated": null,
       "mediaEditions": []
     },
     "preview": "https://graphics.thomsonreuters.com/testfiles/2023/ZRGVAGoDJKhv/"
   },
-  "homepage": ""
+  "homepage": "https://www.reuters.com/graphics/SPECIAL-REPORT/POY-2023/gkvlxnawyvb/"
 }

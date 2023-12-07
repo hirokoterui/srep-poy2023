@@ -96,7 +96,10 @@
     id="{block.Id ? `picture-${block.Id}` : ''}"
   >
     <div class="media-container">
-      <div class="d-block {block.Class}">
+      <div
+        class:d-block="{block.Class === ''}"
+        class:vertical="{block.Class === 'vertical'}"
+      >
         <img
           class="img-fluid"
           itemprop="contentURL"
@@ -106,7 +109,7 @@
 
         {#if block.Restricted}
           <div class="caution">
-            <p class="warning">この写真には遺体が写っています</p>
+            <p class="warning">この写真には損傷の激しい遺体が写っています</p>
             <button
               class="btn warning"
               on:click="{() => {
@@ -129,26 +132,34 @@
       margin-bottom: 6rem;
     }
     img {
-      //transition: all 0.2s ease;
+      transition: opacity 0.5s ease;
     }
-    .vertical {
-      height: 120vh;
-      //max-height: 767px;
-      text-align: center;
-      @media (max-width: 768px) {
-        height: 100vh;
-      }
-      img.img-fluid {
-        height: 100%;
-        width: auto;
+
+    &.image {
+      .vertical {
+        height: calc(var(--app-height) - 52px);
+        max-height: 768px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        img.img-fluid {
+          height: 100%;
+          width: auto;
+          max-width: unset;
+        }
+
+        @media (max-width: 600px) {
+          height: auto;
+          max-height: unset;
+          img.img-fluid {
+            width: 100%;
+            height: auto;
+          }
+        }
       }
     }
   }
-  /*figure:not(.restricted) {
-    .caution {
-      display: none;
-    }
-  }*/
+
   figure.restricted {
     .media-container {
       position: relative;

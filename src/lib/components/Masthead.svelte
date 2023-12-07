@@ -36,7 +36,9 @@
     <div class="masthead-title-container over-image-masthead-title-container">
       <div class="container">
         <div class="row">
-          <h6 class="series-kicker">{content.Kicker}</h6>
+          {#if content.Kicker}
+            <h6 class="series-kicker">{content.Kicker}</h6>
+          {/if}
           <h1 class="series-title">
             {content.Hed}
           </h1>
@@ -49,7 +51,9 @@
   <div class="masthead-title-container under-image-masthead-title-container">
     <div class="container">
       <div class="row">
-        <h6 class="series-kicker">{content.Kicker}</h6>
+        {#if content.Kicker}
+          <h6 class="series-kicker">{content.Kicker}</h6>
+        {/if}
         <h1 class="series-title">
           {content.Hed}
         </h1>

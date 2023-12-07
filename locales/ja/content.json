@@ -1,12 +1,11 @@
 {
-  "SEOTitle": "2023 through the lens of Reuters photographers",
-  "SEODescription": "Reuters tells the story of the world in 2023 through a selection of its best photography from around the globe.",
-  "ShareTitle": "2023 through the lens of Reuters photographers",
-  "ShareDescription": "Reuters tells the story of the world in 2023 through a selection of its best photography from around the globe.",
+  "SEOTitle": "ロイター写真で振り返る２０２３年",
+  "SEODescription": "ロイター写真で振り返る２０２３年",
+  "ShareTitle": "ロイター写真で振り返る２０２３年",
+  "ShareDescription": "ロイター写真で振り返る２０２３年",
   "ShareImgPath": "images/share.jpg",
-  "ShareImgAlt": "2023 through the lens of Reuters photographers",
-  "Hed": "2023 through the lens of Reuters photographers",
-  "Kicker": "特別リポート",
+  "ShareImgAlt": "ロイター写真で振り返る２０２３年",
+  "Hed": "ロイター写真で振り返る２０２３年",
   "Authors": [],
   "PublishedDate": "2023-11-28T11:00:00.000Z",
   "UpdatedDate": "",
@@ -16,7 +15,7 @@
       "Type": "Text",
       "Layout": "Regular",
       "Class": "article-paragraph warning",
-      "Text": "この特別リポートには、遺体や負傷者の写真が含まれます。"
+      "Text": "このリポートには、遺体や負傷者の写真が含まれます。"
     },
     {
       "Type": "Text",
@@ -28,7 +27,7 @@
       "Type": "Text",
       "Layout": "Regular",
       "Class": "article-paragraph",
-      "Text": "ロイターの写真記者は、その展開のすべてをカメラに収めようと、現場にいた。\n\n他の多くの現場にも、ロイター写真記者の姿があった。\n\n２月、トルコとシリアの国境付近でマグニチュード７．８の大地震が発生。多くの建造物が崩壊し、住民が下敷きになった。アブドラリム・ムアイニさんもトルコ南部ハタイ県にある自宅のがれきに挟まれた被災者の一人だ。アブドラリムさんは震災の２日後に救出されたが、妻と娘２人の家族は命を落とした。このトルコ・シリア地震では５万４０００人以上が亡くなった。また、９月にはモロッコで地震が起こり、２９００人以上の死者が出た。\n\n気候変動が深刻化している兆候がかつてないほどに目に見えた１年でもあった。欧州南部やカナダで７月に発生した山火事は住宅を焼き払い、その濃い煙は都市部にも到達して空を暗く覆った。ラテンアメリカでは水位が低下し、住民の生活は脅かされ、固有種のアマゾンカワイルカは高温と干ばつにさらされた。米カリフォルニア州を襲った嵐は記録的豪雨をもたらし、ある道路がほぼ全区間水没している様子を上空から確認することができた。\n\nアフリカでは、コンゴ東部で武装勢力間の衝突が発生し、民間人への攻撃も過激化した。スーダンでも西部ダルフールで民族を標的とする新たな暴力が増加し、死者を出した。カリブ海の島国ハイチでは犯罪グループが勢力を拡大させた。\n\n治安状況の悪化から、多くの移民はリスクを伴いながらもより良い人生を求め、新たな土地へと乗り出した。故郷のベネズエラを離れて米メキシコ国境に向かう貨物列車の屋根に乗り、車体の揺れに耐える人々。欧州を目指して危険なボートで海を渡ろうとするアフリカ諸国からの移民の姿もあった。ただ、目的地に無事にたどり着くことができたのは全員ではなかった。\n\n米国内では多くの裁判がニュースの見出しを飾った。トランプ前米大統領は政府の機密文書の保持や司法妨害などを巡って起訴され、経営破綻した暗号資産（仮想通貨）大手交換所ＦＴＸトレーディングの創業者、サム・バンクマンフリード被告には１１月、詐欺などの罪で有罪評決が下された。"
+      "Text": "ロイターの写真記者は、その展開のすべてをカメラに収めようと、現場にいた。\n\n他の多くの現場にも、ロイター写真記者の姿があった。\n\n２月、トルコとシリアの国境付近でマグニチュード７．８の大地震が発生。多くの建造物が崩壊し、住民が下敷きになった。アブドラリム・ムアイニさんもトルコ南部ハタイ県にある自宅のがれきに挟まれた被災者の一人だ。アブドラリムさんは震災の２日後に救出されたが、妻と娘２人の家族は命を落とした。このトルコ・シリア地震では５万４０００人以上が亡くなった。また、９月にはモロッコで地震が起こり、２９００人以上の死者が出た。\n\n気候変動が深刻化している兆候がかつてないほどに目に見えた一年でもあった。欧州南部やカナダで７月に発生した山火事は住宅を焼き払い、その濃い煙は都市部にも到達して空を暗く覆った。ラテンアメリカでは水位が低下し、住民の生活は脅かされ、固有種のアマゾンカワイルカは高温と干ばつにさらされた。米カリフォルニア州を襲った嵐は記録的豪雨をもたらし、ある道路がほぼ全区間水没している様子を上空から確認することができた。\n\nアフリカでは、コンゴ東部で武装勢力間の衝突が発生し、民間人への攻撃も過激化した。スーダンでも西部ダルフールで民族を標的とする新たな暴力が増加し、死者を出した。カリブ海の島国ハイチでは犯罪グループが勢力を拡大させた。\n\n治安状況の悪化から、多くの移民はリスクを伴いながらもより良い人生を求め、新たな土地へと乗り出した。故郷のベネズエラを離れて米メキシコ国境に向かう貨物列車の屋根に乗り、車体の揺れに耐える人々。欧州を目指して危険なボートで海を渡ろうとするアフリカ諸国からの移民の姿もあった。ただ、目的地に無事にたどり着くことができたのは全員ではなかった。\n\n米国内では多くの裁判がニュースの見出しを飾った。トランプ前米大統領は政府の機密文書の保持や司法妨害などを巡って起訴され、経営破綻した暗号資産（仮想通貨）大手交換所ＦＴＸトレーディングの創業者、サム・バンクマンフリード被告には１１月、詐欺などの罪で有罪評決が下された。"
     },
     {
       "Type": "Quote",
@@ -39,7 +38,7 @@
       "Type": "Text",
       "Class": "article-paragraph",
       "Layout": "Regular",
-      "Text": "１０月７日、パレスチナ自治区ガザを実効支配するイスラム組織ハマスがイスラエル南部を襲撃。イスラエル側の集計によれば約１２００人が殺害され、およそ２４０人が人質として拘束された。イスラエルは報復としてガザへの空爆や地上作戦を展開し、ガザ当局は１１月後半までに１万５０００人以上が死亡したと発表した。\n\n中東での戦闘勃発などを受けてウクライナ情勢に対する国際社会の注目は薄れたが、同国東部などでは戦闘が続き、毎日のように死者が出ている。ロイターの写真記者の一人は１０月、地面に横たわる複数の遺体を眺めている女性の姿を捉えた。その女性は目前の光景に悲しみを覚えながらも、こうした状況に驚かなくなっているようにも見受けられた。\n\n多くの死や悲しみが訪れる１年だった一方、追悼や祝宴を開き前を向く人々の姿もロイターのカメラに収められていた。歴史ある工芸を学び、宗教行事のために盛装するなど、長年の伝統を受け継ごうとする子どもたちの姿もあった。５月６日に執り行われたチャールズ英国王の戴冠式では、英国旗のユニオンジャックがはためいていた。\n\n人々はスポーツに興じ、水泳やサーフィンなども楽しんだ。パーティーや美術展に足を運ぶ人々もいた。ファッションショーではモデルらがキャットウォークを堂々と歩き、米アカデミー賞では受賞者にオスカー像が贈られた。\n\n未確認飛行物体（ＵＦＯ）も思いがけず大きな話題をさらった。米国とメキシコで行われた公聴会で議題に上ったり、２月に米国の上空で不審な飛行物体が確認されたためだ。あれは鳥か、飛行機か、ＥＴか、はたまた偵察気球か──。様々な憶測が飛び交った。"
+      "Text": "１０月７日、イスラム組織ハマスがイスラエル南部を襲撃。イスラエル側の集計によれば約１２００人が殺害され、およそ２４０人が人質として拘束された。イスラエルは報復としてガザへの空爆や地上作戦を展開し、ガザ当局は１１月後半までに１万５０００人以上が死亡したと発表した。\n\n中東での戦闘勃発などを受けてウクライナ情勢に対する国際社会の注目は薄れたが、同国東部などでは戦闘が続き、毎日のように死者が出ている。ロイターの写真記者の一人は１０月、地面に横たわる複数の遺体を眺めている女性の姿を捉えた。その女性は目前の光景に悲しみを覚えながらも、こうした状況に驚かなくなっているようにも見受けられた。\n\n多くの死や悲しみが訪れる１年だった一方、死者を悼む機会を持ったり、祝宴を開いたりして前を向く人々の姿もロイターのカメラに収められていた。歴史ある工芸を学び、宗教行事のために盛装するなど、長年の伝統を受け継ごうとする子どもたちの姿もあった。５月６日に執り行われたチャールズ英国王の戴冠式では、英国旗のユニオンジャックがはためいていた。\n\n人々はスポーツに興じ、水泳やサーフィンなども楽しんだ。パーティーや美術展に足を運ぶ人々もいた。ファッションショーではモデルらがキャットウォークを堂々と歩き、米アカデミー賞では受賞者にオスカー像が贈られた。\n\n未確認飛行物体（ＵＦＯ）も思いがけず大きな話題をさらった。米国とメキシコで行われた公聴会で議題に上ったり、２月に米国の上空で不審な飛行物体が確認されたためだ。あれは鳥か、飛行機か、ＥＴか、はたまた偵察気球か──。様々な憶測が飛び交った。"
     },
     {
       "Type": "Text",
@@ -453,7 +452,7 @@
       "Class": "",
       "Id": "51",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_40.jpg",
-      "Caption": "ブラジルの首都ブラジリアで、右派ボルソナロ前大統領の支持者らによる暴動の後、最高裁判所の割れたガラス越しにはためくブラジル国旗。１月撮影（２０２３年　ロイター/Ricardo Moraes）"
+      "Caption": "ブラジルの首都ブラジリアで、右派ボルソナロ前大統領の支持者らによる暴動の後、最高裁判所の割れたガラス越しにはためくブラジル国旗。１月１０日撮影（２０２３年　ロイター/Ricardo Moraes）"
     },
     {
       "Type": "Image",
@@ -461,7 +460,7 @@
       "Class": "",
       "Id": "52",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_36.jpg",
-      "Caption": "ウクライナのブチャで、著名ストリートアーティスト「TVBoy」の作品の前に立つアナスタシアちゃん（４）。１月撮影（２０２３年　ロイター/Valentyn Ogirenko）"
+      "Caption": "ウクライナのブチャで、著名ストリートアーティスト「TVBoy」の作品の前に立つアナスタシアちゃん（４）。１月２９日撮影（２０２３年　ロイター/Valentyn Ogirenko）"
     },
     {
       "Type": "Image",
@@ -469,7 +468,7 @@
       "Class": "",
       "Id": "53",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_01.jpg",
-      "Caption": "ウクライナ・バフムート近郊で、ロシア軍に向けて自走榴弾砲「ボーダナ」を発射するウクライナ軍兵士。７月撮影（２０２３年　ロイター/Sofiia Gatilova）"
+      "Caption": "ウクライナ・バフムト近郊で、ロシア軍に向けて自走りゅう弾砲「ボーダナ」を発射するウクライナ軍兵士。７月５日撮影（２０２３年　ロイター/Sofiia Gatilova）"
     },
     {
       "Type": "Image",
@@ -477,7 +476,7 @@
       "Class": "",
       "Id": "54",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_34.jpg",
-      "Caption": "ウクライナ・フメルニツキー州レティチフで、ロシア軍との戦闘で死亡したボロディミール・アンドロシュチュク氏の遺体に寄り添う母バレンティナさんと妹リュドミラさん。ボロディミールさんは現役の十種競技選手だった。２月撮影（２０２３年　ロイター/Valentyn Ogirenko）"
+      "Caption": "ウクライナ・フメルニツキー州レティチフで、ロシア軍との戦闘で死亡したボロディミール・アンドロシュチュク氏の遺体に寄り添う母バレンティナさんと妹リュドミラさん。ボロディミールさんは現役の十種競技選手だった。２月１日撮影（２０２３年　ロイター/Valentyn Ogirenko）"
     },
     {
       "Type": "Image",
@@ -486,7 +485,7 @@
       "Restricted": "true",
       "Id": "55",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_46.jpg",
-      "Caption": "ウクライナ・ハリコフ州フロザ村で、警察が作業を進める中、ロシア軍の空爆で死亡した人々の遺体を見つめる地元住民。１０月撮影（２０２３年　ロイター/Vyacheslav Madiyevskyy）"
+      "Caption": "ウクライナ・ハリコフ州フロザ村で、警察が作業を進める中、ロシア軍の空爆で死亡した人々の遺体を見つめる地元住民。１０月５日撮影（２０２３年　ロイター/Vyacheslav Madiyevskyy）"
     },
     {
       "Type": "Image",
@@ -494,7 +493,7 @@
       "Class": "",
       "Id": "56",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_73.jpg",
-      "Caption": "ロシア南部ロストフナドヌーのロシア軍南部軍管区司令部を後にする民間軍事会社ワグネル創設者のエフゲニー・プリゴジン氏。プリゴジン氏はワグネルを率いて武装蜂起し、同司令部などを占拠したが、その後引き揚げに同意した。６月撮影（２０２３年　ロイター/Alexander Ermochenko）"
+      "Caption": "ロシア南部ロストフナドヌーのロシア軍南部軍管区司令部を後にする民間軍事会社ワグネル創設者のエフゲニー・プリゴジン氏。プリゴジン氏はワグネルを率いて武装蜂起し、同司令部などを占拠したが、その後引き揚げに同意した。６月２４日撮影（２０２３年　ロイター/Alexander Ermochenko）"
     },
     {
       "Type": "Image",
@@ -502,7 +501,7 @@
       "Class": "",
       "Id": "57",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_56.jpg",
-      "Caption": "ウクライナ・キーウで、破れた防水シート越しに見える祖国記念碑。 ウクライナ当局は今年夏、記念碑の楯にあしらわれた旧ソ連の国章を外してウクライナの国章に替えた。１０月撮影（２０２３年　ロイター/Thomas Peter）"
+      "Caption": "ウクライナ・キーウで、破れた防水シート越しに見える祖国記念碑。 ウクライナ当局は今年夏、記念碑の盾にあしらわれた旧ソ連の国章を外してウクライナの国章に替えた。１０月２６日撮影（２０２３年　ロイター/Thomas Peter）"
     },
     {
       "Type": "Image",
@@ -510,7 +509,7 @@
       "Class": "",
       "Id": "58",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_79.jpg",
-      "Caption": "イスラエルが占領するパレスチナ自治区ヨルダン川西岸のジェニンで、イスラエル軍の襲撃を受け、交戦するパレスチナ人。３月撮影（２０２３年　ロイター/Raneen Sawafta）"
+      "Caption": "イスラエルが占領するパレスチナ自治区ヨルダン川西岸のジェニンで、イスラエル軍の襲撃を受け、交戦するパレスチナ人。３月７日撮影（２０２３年　ロイター/Raneen Sawafta）"
     },
     {
       "Type": "Image",
@@ -518,7 +517,7 @@
       "Class": "",
       "Id": "59",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_68.jpg",
-      "Caption": "ペルー・リマで、ボルアルテ大統領の辞任を求める全国的な抗議デモの最中、警官隊と衝突するデモ隊。７月撮影（２０２３年　ロイター/Angela Ponce）"
+      "Caption": "ペルー・リマで、ボルアルテ大統領の辞任を求める全国的な抗議デモの最中、警官隊と衝突するデモ隊。７月２９日撮影（２０２３年　ロイター/Angela Ponce）"
     },
     {
       "Type": "Image",
@@ -526,7 +525,7 @@
       "Class": "",
       "Id": "60",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_97.jpg",
-      "Caption": "ケニア・ナイロビのマタレ集落で、政府による増税に反対する反政府デモの最中、機動隊員が使った催涙弾から逃げる野党指導者オディンガ氏の支持者ら。７月撮影（２０２３年　ロイター/John Muchucha）"
+      "Caption": "ケニア・ナイロビのマタレ集落で、政府による増税に反対する反政府デモの最中、機動隊員が使った催涙弾から逃げる野党指導者オディンガ氏の支持者ら。７月１２日撮影（２０２３年　ロイター/John Muchucha）"
     },
     {
       "Type": "Image",
@@ -534,7 +533,7 @@
       "Class": "",
       "Id": "61",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_25.jpg",
-      "Caption": "フランス西部サントソリーヌで、かんがい用の新しい貯水インフラの建設に反対するデモの最中に走る憲兵隊員。３月撮影（REUTERS/Yves Herman）"
+      "Caption": "フランス西部サントソリーヌで、かんがい用の新しい貯水インフラの建設に反対するデモの最中に走る憲兵隊員。３月２５日撮影（REUTERS/Yves Herman）"
     },
     {
       "Type": "Image",
@@ -542,7 +541,7 @@
       "Class": "",
       "Id": "62",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_64.jpg",
-      "Caption": "イタリア・クロトーネで、移民船の沈没事故で死亡した犠牲者の棺に寄り添う人。３月撮影（２０２３年　ロイター/Remo Casilli）"
+      "Caption": "イタリア・クロトーネで、移民船の沈没事故で死亡した犠牲者のひつぎに寄り添う人。３月１日撮影（２０２３年　ロイター/Remo Casilli）"
     },
     {
       "Type": "Image",
@@ -550,7 +549,7 @@
       "Class": "",
       "Id": "63",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_26.jpg",
-      "Caption": "トルコのイスケンデルンで、大地震の後に家族が避難しているカンカヤ墓地で、空の棺の中で遊ぶメフメト・ドグルくん（６）。３月撮影（２０２３年　ロイター/Susana Vera）"
+      "Caption": "トルコのイスケンデルンで、大地震の後に家族が避難しているカンカヤ墓地で、空のひつぎの中で遊ぶメフメト・ドグルくん（６）。３月８日撮影（２０２３年　ロイター/Susana Vera）"
     },
     {
       "Type": "Image",
@@ -558,7 +557,7 @@
       "Class": "",
       "Id": "64",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_96.jpg",
-      "Caption": "グアテマラのエル・アグアカテ村の自宅で昼食をとるマリア・コンセプシオン・ロドリゲスさん（３０）と子供たち。８月撮影（２０２３年　ロイター/Pilar Olivares）"
+      "Caption": "グアテマラのエル・アグアカテ村の自宅で昼食をとるマリア・コンセプシオン・ロドリゲスさん（３０）と子どもたち。８月１６日撮影（２０２３年　ロイター/Pilar Olivares）"
     },
     {
       "Type": "Image",
@@ -566,7 +565,7 @@
       "Class": "",
       "Id": "65",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_90.jpg",
-      "Caption": "フィリピン・マニラのトンドで、フィリピンのカトリック教徒の恒例行事、サンタクルーサン・パレードに参加する少女たち。５月撮影（２０２３年　ロイター/Eloisa Lopez）"
+      "Caption": "フィリピン・マニラのトンドで、フィリピンのカトリック教徒の恒例行事、サンタクルーサン・パレードに参加する少女たち。５月３１日撮影（２０２３年　ロイター/Eloisa Lopez）"
     },
     {
       "Type": "Image",
@@ -574,7 +573,7 @@
       "Class": "",
       "Id": "66",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_77.jpg",
-      "Caption": "モロッコのアスニ近郊で、地震で損壊した家の壁に掛けられたモロッコ国王ムハンマド６世の写真。９月撮影（２０２３年　ロイター/Nacho Doce）"
+      "Caption": "モロッコのアスニ近郊で、地震で損壊した家の壁に掛けられたモロッコ国王ムハンマド６世の写真。９月１３日撮影（２０２３年　ロイター/Nacho Doce）"
     },
     {
       "Type": "Image",
@@ -582,7 +581,7 @@
       "Class": "",
       "Id": "67",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_69.jpg",
-      "Caption": "チャド東部アドレで 国連難民高等弁務官事務所（ＵＮＨＣＲ）の登録を待つ、スーダンのダルフール地方の紛争から逃れてきたスーダン人家族。７月撮影（２０２３年　ロイター/Zohra Bensemra）"
+      "Caption": "チャド東部アドレで 国連難民高等弁務官事務所（ＵＮＨＣＲ）の登録を待つ、スーダンのダルフール地方の紛争から逃れてきたスーダン人家族。７月２６日撮影（２０２３年　ロイター/Zohra Bensemra）"
     },
     {
       "Type": "Image",
@@ -590,7 +589,7 @@
       "Class": "",
       "Id": "68",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_70.jpg",
-      "Caption": "スーダンのダルフール地方の紛争から逃れてチャド東部アドレ郊外の難民キャンプに移動し、家族と再会したアマニ・アブドゥラさん（20）。夫は準軍事組織「即応支援部隊（ＲＳＦ）」に自宅で殺害されたという。７月撮影（２０２３年　ロイター/Zohra Bensemra）"
+      "Caption": "スーダンのダルフール地方の紛争から逃れてチャド東部アドレ郊外の難民キャンプに移動し、家族と再会したアマニ・アブドゥラさん（２０）。夫は準軍事組織「即応支援部隊（ＲＳＦ）」に自宅で殺害されたという。７月２５日撮影（２０２３年　ロイター/Zohra Bensemra）"
     },
     {
       "Type": "Image",
@@ -598,7 +597,7 @@
       "Class": "",
       "Id": "69",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_05.jpg",
-      "Caption": "ギリシャのメタモルフォシ村で、暴風雨「ダニエル」による洪水によって破壊された教会。９月撮影（２０２３年　ロイター/Louisa Gouliamaki）"
+      "Caption": "ギリシャのメタモルフォシ村で、暴風雨「ダニエル」による洪水で破壊された教会。９月２７日撮影（２０２３年　ロイター/Louisa Gouliamaki）"
     },
     {
       "Type": "Image",
@@ -606,7 +605,7 @@
       "Class": "",
       "Id": "70",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_87.jpg",
-      "Caption": "豪雨で庭が崩れ落ちた、米カリフォルニア州サンクレメンテの海岸沿いの家。３月撮影（２０２３年　ロイター/Mike Blake）"
+      "Caption": "豪雨で庭が崩れ落ちた、米カリフォルニア州サンクレメンテの海岸沿いの家。３月１６日撮影（２０２３年　ロイター/Mike Blake）"
     },
     {
       "Type": "Image",
@@ -614,7 +613,7 @@
       "Class": "",
       "Id": "71",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_24.jpg",
-      "Caption": "米カリフォルニア州コーコランで、数日続いた豪雨により水が増え道路を冠水させたトゥーレアリ湖。同湖は普段は干上がった状態だという。３月撮影（２０２３年　ロイター/David Swanson）"
+      "Caption": "米カリフォルニア州コーコランで、数日続いた豪雨により水が増え道路を冠水させたトゥーレアリ湖。同湖は普段は干上がった状態だという。３月２９日撮影（２０２３年　ロイター/David Swanson）"
     },
     {
       "Type": "Image",
@@ -622,7 +621,7 @@
       "Class": "",
       "Id": "72",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_81.jpg",
-      "Caption": "米カリフォルニア州エンシニータスのサーファー。８月撮影（２０２３年　ロイター/Mike Blake）"
+      "Caption": "米カリフォルニア州エンシニータスのサーファー。８月２８日撮影（２０２３年　ロイター/Mike Blake）"
     },
     {
       "Type": "Image",
@@ -630,7 +629,7 @@
       "Class": "",
       "Id": "73",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_72.jpg",
-      "Caption": "アイルランド、ゴールウェイのラウンドストーンで開催されたポニーショーの審査員。７月撮影（２０２３年　ロイター/Clodagh Kilcoyne）"
+      "Caption": "アイルランド、ゴールウェイのラウンドストーンで開催されたポニーショーの審査員。７月９日撮影（２０２３年　ロイター/Clodagh Kilcoyne）"
     },
     {
       "Type": "Image",
@@ -638,7 +637,7 @@
       "Class": "",
       "Id": "74",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_65.jpg",
-      "Caption": "イタリア・クロトーネ近郊のステッカート・ディ・クトロで、移民船の沈没事故で失われた船の一部と子どもの服。２月撮影（２０２３年　ロイター/Remo Casilli）"
+      "Caption": "イタリア・クロトーネ近郊のステッカート・ディ・クトロで、移民船の沈没事故で失われた船の一部と子どもの服。２月２８日撮影（２０２３年　ロイター/Remo Casilli）"
     },
     {
       "Type": "Image",
@@ -646,7 +645,7 @@
       "Class": "",
       "Id": "75",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_49.jpg",
-      "Caption": "ブラジル・アマゾナス州テフェで、高温と干ばつの影響を受けたテフェ湖からイルカの死体を回収する研究者。１０月撮影（２０２３年　ロイター/Bruno Kelly）"
+      "Caption": "ブラジル・アマゾナス州テフェで、高温と干ばつの影響を受けたテフェ湖からイルカの死体を回収する研究者。１０月２日撮影（２０２３年　ロイター/Bruno Kelly）"
     },
     {
       "Type": "Image",
@@ -654,7 +653,7 @@
       "Class": "",
       "Id": "76",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_80.jpg",
-      "Caption": "記録的な水位の低下に見舞われたボリビアのチチカカ湖で、露出して干上がった湖底を歩くマヌエル・フロレスさん。１０月撮影（２０２３年　ロイター/Claudia Morales）"
+      "Caption": "記録的な水位の低下に見舞われたボリビアのチチカカ湖で、露出して干上がった湖底を歩くマヌエル・フロレスさん。１０月２６日撮影（２０２３年　ロイター/Claudia Morales）"
     },
     {
       "Type": "Image",
@@ -662,7 +661,7 @@
       "Class": "",
       "Id": "77",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_82.jpg",
-      "Caption": "震災に見舞われたアフガニスタン西部ヘラート州でテントを運ぶ男性たち。１０月撮影（２０２３年　ロイター/Ali Khara）"
+      "Caption": "震災に見舞われたアフガニスタン西部ヘラート州でテントを運ぶ男性たち。１０月１０日撮影（２０２３年　ロイター/Ali Khara）"
     },
     {
       "Type": "Image",
@@ -670,7 +669,7 @@
       "Class": "",
       "Id": "78",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_52.jpg",
-      "Caption": "ギリシャ中部ラリサで９月、暴風雨「ストーム・ダニエル」の被害で浸水した地区からショベルカーに乗って避難する住民（２０２３年　ロイター/Elias Marcou）"
+      "Caption": "ギリシャ中部ラリサで、暴風雨「ストーム・ダニエル」の被害で浸水した地区からショベルカーに乗って避難する住民。９月１０日撮影（２０２３年　ロイター/Elias Marcou）"
     },
     {
       "Type": "Image",
@@ -678,7 +677,7 @@
       "Class": "",
       "Id": "79",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_53.jpg",
-      "Caption": "アイルランドの歌手シネイド・オコナーさんの棺を運ぶ霊きゅう車がオコナーさんがかつて住んだ家の前を通り、ファンが別れを惜しんだ。アイルランド・ブレイで８月撮影（２０２３年　ロイター/Clodagh Kilcoyne）"
+      "Caption": "アイルランドの歌手シネイド・オコナーさんのひつぎを運ぶ霊きゅう車がオコナーさんがかつて住んだ家の前を通り、ファンが別れを惜しんだ。アイルランド・ブレイで８月８日撮影（２０２３年　ロイター/Clodagh Kilcoyne）"
     },
     {
       "Type": "Image",
@@ -686,7 +685,7 @@
       "Class": "",
       "Id": "80",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_83.jpg",
-      "Caption": "スパイ容疑を巡る裁判前の身柄拘束に異議を申し立て、モスクワの裁判所で行われた審理に出席した米紙ウォール・ストリート・ジャーナル（ＷＳＪ）のエバン・ゲルシコビッチ記者。１０月撮影（２０２３年　ロイター/Evgenia Novozhenina）"
+      "Caption": "スパイ容疑を巡る裁判前の身柄拘束に異議を申し立て、モスクワの裁判所で行われた審理に出席した米紙ウォール・ストリート・ジャーナル（ＷＳＪ）のエバン・ゲルシコビッチ記者。１０月１０日撮影（２０２３年　ロイター/Evgenia Novozhenina）"
     },
     {
       "Type": "Image",
@@ -694,7 +693,7 @@
       "Class": "",
       "Id": "81",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_98.jpg",
-      "Caption": "南アフリカ・ヨハネスブルク西部の非公式居住地で発生した火災現場で、検視官が若者２人の遺体を搬出するのを見て泣き崩れる住人。９月撮影（２０２３年　ロイター/Shiraaz Mohamed）"
+      "Caption": "南アフリカ・ヨハネスブルク西部の非公式居住地で発生した火災現場で、検視官が若者２人の遺体を搬出するのを見て泣き崩れる住人。９月３日撮影（２０２３年　ロイター/Shiraaz Mohamed）"
     },
     {
       "Type": "Image",
@@ -702,7 +701,7 @@
       "Class": "",
       "Id": "82",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_21.jpg",
-      "Caption": "ブラジリアで行われた世界環境デーのイベントの席上、眼鏡を手にするブラジルのルラ大統領。６月撮影（２０２３年　ロイター/Ueslei Marcelino）"
+      "Caption": "ブラジリアで行われた世界環境デーのイベントの席上、眼鏡を手にするブラジルのルラ大統領。６月５日撮影（２０２３年　ロイター/Ueslei Marcelino）"
     },
     {
       "Type": "Image",
@@ -710,7 +709,7 @@
       "Class": "",
       "Id": "83",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_54.jpg",
-      "Caption": "パキスタン南部シンド州サンガールの列車の脱線事故現場で、取り残された人はいないか捜索する救助隊員。８月撮影（２０２３年　ロイター/Yasir Rajput）"
+      "Caption": "パキスタン南部シンド州サンガールの列車の脱線事故現場で、取り残された人はいないか捜索する救助隊員。８月６日撮影（２０２３年　ロイター/Yasir Rajput）"
     },
     {
       "Type": "Image",
@@ -718,7 +717,7 @@
       "Class": "",
       "Id": "84",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_07.jpg",
-      "Caption": "仏リブルヌからリモージュを走る自転車ロードレース「ツール・ド・フランス」の第８ステージで、コースを走る先頭集団。７月撮影（２０２３年　ロイター/Stephane Mahe）"
+      "Caption": "仏リブルヌからリモージュを走る自転車ロードレース「ツール・ド・フランス」の第８ステージで、コースを走る先頭集団。７月８日撮影（２０２３年　ロイター/Stephane Mahe）"
     },
     {
       "Type": "Image",
@@ -726,7 +725,7 @@
       "Class": "",
       "Id": "85",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_28.jpg",
-      "Caption": "火災で炎上する建物。香港で３月撮影　（２０２３年　ロイター/Tyrone Siu）"
+      "Caption": "火災で炎上する建物。香港で３月３日撮影（２０２３年　ロイター/Tyrone Siu）"
     },
     {
       "Type": "Image",
@@ -734,7 +733,7 @@
       "Class": "",
       "Id": "86",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_47.jpg",
-      "Caption": "オーストラリアで１０月に実施されたアボリジニなど先住民を巡る憲法改正の是非を問う国民投票を前に、中部アレイヨンガの学校の校庭で撮影に応じる教師のタルナ・アンドリュースさん。９月撮影。国民投票では、先住民を「最初のオーストラリア人」と認めることや、先住民が影響を受ける問題を政府に諮問する組織「議会への声」設立の是非が問われたが、反対多数で否決された（２０２３年　ロイター/Jaimi Joy）"
+      "Caption": "オーストラリアで１０月に実施されたアボリジニなど先住民を巡る憲法改正の是非を問う国民投票を前に、中部アレイヨンガの学校の校庭で撮影に応じる教師のタルナ・アンドリュースさん。９月１５日撮影。国民投票では、先住民を「最初のオーストラリア人」と認めることや、先住民が影響を受ける問題を政府に諮問する組織「議会への声」設立の是非が問われたが、反対多数で否決された（２０２３年　ロイター/Jaimi Joy）"
     },
     {
       "Type": "Image",
@@ -742,7 +741,7 @@
       "Class": "",
       "Id": "87",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_18.jpg",
-      "Caption": "フランスのパリ郊外ナンテールで６月末、１７歳の少年が交通検問中の警察官に銃で撃たれ死亡した事件を受けて発生した抗議活動の現場で、ひっくり返された自動車の横を歩く警察官。パリで７月撮影（２０２３年　ロイター/Juan Medina）"
+      "Caption": "フランスのパリ郊外ナンテールで６月末、１７歳の少年が交通検問中の警察官に銃で撃たれ死亡した事件を受けて発生した抗議活動の現場で、ひっくり返された自動車の横を歩く警察官。パリで７月２日撮影（２０２３年　ロイター/Juan Medina）"
     },
     {
       "Type": "Image",
@@ -750,7 +749,7 @@
       "Class": "",
       "Id": "88",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_41.jpg",
-      "Caption": "ボリビアのサンタクルス県知事で、右派野党指導者のルイス・フェルナンド・カマチョ氏の逮捕に抗議するデモ隊と衝突する警官隊。サンタ・クルス・デ・ラ・シエラで１月撮影。カマチョ氏は、２０１９年の「クーデター」に関与したとして逮捕された（２０２３年　ロイター/Agustin Marcarian）"
+      "Caption": "ボリビアのサンタクルス県知事で、右派野党指導者のルイス・フェルナンド・カマチョ氏の逮捕に抗議するデモ隊と衝突する警官隊。サンタ・クルス・デ・ラ・シエラで１月２日撮影。カマチョ氏は、２０１９年の「クーデター」に関与したとして逮捕された（２０２３年　ロイター/Agustin Marcarian）"
     },
     {
       "Type": "Image",
@@ -758,7 +757,7 @@
       "Class": "",
       "Id": "89",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_55.jpg",
-      "Caption": "女子ワールドカップ（Ｗ杯）の試合で競り合うイングランドのアレックス・グリーンウッド（右）とデンマークのヤンニ・トムセン。同Ｗ杯はオーストラリアとニュージーランドが共催した。７月撮影（２０２３年　ロイター/Carl Recine）"
+      "Caption": "女子ワールドカップ（Ｗ杯）の試合で競り合うイングランドのアレックス・グリーンウッド（右）とデンマークのヤンニ・トムセン。同Ｗ杯はオーストラリアとニュージーランドが共催した。７月２８日撮影（２０２３年　ロイター/Carl Recine）"
     },
     {
       "Type": "Image",
@@ -766,7 +765,7 @@
       "Class": "",
       "Id": "90",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_63.jpg",
-      "Caption": "春の訪れを告げるヒンズー教の祭り「ホーリー祭」で色の粉を掛け合い、男性を空中に投げ上げる信者ら。インド北西部グジャラート州サランプールの寺院で３月撮影（２０２３年　ロイター/Amit Dave）"
+      "Caption": "春の訪れを告げるヒンズー教の祭り「ホーリー祭」で色の粉を掛け合い、男性を空中に投げ上げる信者ら。インド北西部グジャラート州サランプールの寺院で３月７日撮影（２０２３年　ロイター/Amit Dave）"
     },
     {
       "Type": "Image",
@@ -774,7 +773,7 @@
       "Class": "",
       "Id": "91",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_20.jpg",
-      "Caption": "カナダの森林火災の煙が空を覆ったニューヨーク・マンハッタンのスカイライン。観光客らもマスクを着けていた。クイーンズからイーストリバーを６月撮影（２０２３年　ロイター/Shannon Stapleton）"
+      "Caption": "カナダの森林火災の煙が空を覆ったニューヨーク・マンハッタンのスカイライン。観光客らもマスクを着けていた。クイーンズからイーストリバーを６月７日撮影（２０２３年　ロイター/Shannon Stapleton）"
     },
     {
       "Type": "Image",
@@ -782,7 +781,7 @@
       "Class": "",
       "Id": "92",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_44.jpg",
-      "Caption": "岐阜県関市小瀬の長良川で、ウの首や体に巻いたひもにつながっている手縄をさばく鵜匠の足立陽一郎さん。９月撮影（２０２３年　ロイター/Kim Kyung-Hoon）"
+      "Caption": "岐阜県関市小瀬の長良川で、ウの首や体に巻いたひもにつながっている手縄をさばく鵜匠の足立陽一郎さん。９月８日撮影（２０２３年　ロイター/Kim Kyung-Hoon）"
     },
     {
       "Type": "Image",
@@ -790,7 +789,7 @@
       "Class": "",
       "Id": "93",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_74.jpg",
-      "Caption": "上海で開かれたヴォーグダンスのパーティーに集まった人々。５月撮影（２０２３年　ロイター/Aly Song）"
+      "Caption": "上海で開かれたヴォーグダンスのパーティーに集まった人々。５月１３日撮影（２０２３年　ロイター/Aly Song）"
     },
     {
       "Type": "Image",
@@ -798,7 +797,7 @@
       "Class": "",
       "Id": "94",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_11.jpg",
-      "Caption": "ヒンズー教の断食行事「ラカー・ウポバシュ」で、オイルランプを前に聖者ロケナス・ブラフマチャリに祈りを捧げる信者。バングラデシュのナラヤンガンジで１１月撮影（２０２３年　ロイター/Mohammad Ponir Hossain）"
+      "Caption": "ヒンズー教の断食行事「ラカー・ウポバシュ」で、オイルランプを前に聖者ロケナス・ブラフマチャリに祈りを捧げる信者。バングラデシュのナラヤンガンジで１１月７日撮影（２０２３年　ロイター/Mohammad Ponir Hossain）"
     },
     {
       "Type": "Image",
@@ -806,7 +805,7 @@
       "Class": "",
       "Id": "95",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_30.jpg",
-      "Caption": "中国国民党政権による民衆弾圧「二二八事件」７６周年の式典で、 台湾の蒋萬安・台北市長によるスピーチに乱入し、警察官に排除される人々。蒋市長は伝統的に中国との緊密な関係を重視する国民党に所属する。台北の二二八平和公園で２月撮影（２０２３年　ロイター/Ann Wang）"
+      "Caption": "中国国民党政権による民衆弾圧「二二八事件」７６周年の式典で、 台湾の蒋萬安・台北市長によるスピーチに乱入し、警察官に排除される人々。蒋市長は伝統的に中国との緊密な関係を重視する国民党に所属する。台北の二二八平和公園で２月２８日撮影（２０２３年　ロイター/Ann Wang）"
     },
     {
       "Type": "Image",
@@ -814,7 +813,7 @@
       "Class": "",
       "Id": "96",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_22.jpg",
-      "Caption": "米陸軍士官学校の卒業式で、投げ上げた帽子が直撃して血を流す卒業生。ニューヨーク州ウエストポイントで５月撮影（２０２３年　ロイター/Eduardo Munoz）"
+      "Caption": "米陸軍士官学校の卒業式で、投げ上げた帽子が直撃して血を流す卒業生。ニューヨーク州ウエストポイントで５月２７日撮影（２０２３年　ロイター/Eduardo Munoz）"
     },
     {
       "Type": "Image",
@@ -822,7 +821,7 @@
       "Class": "",
       "Id": "97",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_95.jpg",
-      "Caption": "欧州へ渡ろうと乗ったボートがギリシャ沖の公海で転覆し、他の難民や避難民とともに救助されたシリア出身のモハメドさん（１８）。兄のファディさんがオランダから到着し、再会を果たした。ギリシャ・カラマタの港で６月撮影（２０２３年　ロイター/Stelios Misinas）"
+      "Caption": "欧州へ渡ろうと乗ったボートがギリシャ沖の公海で転覆し、他の難民や避難民とともに救助されたシリア出身のモハメドさん（１８）。兄のファディさんがオランダから到着し、再会を果たした。ギリシャ・カラマタの港で６月１６日撮影（２０２３年　ロイター/Stelios Misinas）"
     },
     {
       "Type": "Image",
@@ -830,7 +829,7 @@
       "Class": "",
       "Id": "98",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_60.jpg",
-      "Caption": "共和党が多数を占める米テネシー州議会で、銃規制強化の声を上げた民主党議員２人の除名処分が可決され、議事堂を後にする（右から）ジャスティン・ピアーソン議員、ジャスティン・ジョーンズ議員、グロリア・ジョンソン議員。声を上げた３議員のうち、除名されたのは黒人のピアーソン、ジョーンズ両議員だけだった。ナッシュビルで４月撮影（２０２３年　ロイター/Cheney Orr）"
+      "Caption": "共和党が多数を占める米テネシー州議会で、銃規制強化の声を上げた民主党議員２人の除名処分が可決され、議事堂を後にする（右から）ジャスティン・ピアーソン議員、ジャスティン・ジョーンズ議員、グロリア・ジョンソン議員。声を上げた３議員のうち、除名されたのは黒人のピアーソン、ジョーンズ両議員だけだった。ナッシュビルで４月６日撮影（２０２３年　ロイター/Cheney Orr）"
     },
     {
       "Type": "Image",
@@ -838,7 +837,7 @@
       "Class": "",
       "Id": "99",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_62.jpg",
-      "Caption": "「黄金の丘」とも呼ばれる寺院ワット・サケットの背後に沈む太陽。バンコクで３月撮影（２０２３年　ロイター/Athit Perawongmetha）"
+      "Caption": "「黄金の丘」とも呼ばれる寺院ワット・サケットの背後に沈む太陽。バンコクで３月１９日撮影（２０２３年　ロイター/Athit Perawongmetha）"
     },
     {
       "Type": "Image",
@@ -846,7 +845,7 @@
       "Class": "",
       "Id": "100",
       "Image": "https://www.reuters.com/investigates/special-report/assets/global-poy-2023/PoY_42.jpg",
-      "Caption": "ロシアによる侵攻を受けるウクライナの首都キーウに初雪が降る中、公園を歩く女性。１１月撮影（２０２３年　ロイター/Valentyn Ogirenko）"
+      "Caption": "ロシアによる侵攻を受けるウクライナの首都キーウに初雪が降る中、公園を歩く女性。１１月２２日撮影（２０２３年　ロイター/Valentyn Ogirenko）"
     }
   ],
   "EndNotes": "\n写真編集：Maye-E Wong\n\n文：Rosalba O’Brien\n\n編集：Mark Porter\n\nデザイン：Maye-E Wong、Marta Montana Gomez、Eve Watling、照井裕子\n\n翻訳・編集：大澤優花、本田ももこ、田頭淳子、宗えりか、山口香子"
